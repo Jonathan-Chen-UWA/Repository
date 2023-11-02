@@ -1,0 +1,5 @@
+tests/*
+*.pyc
+*.retry
+.idea/
+parse_results.py
