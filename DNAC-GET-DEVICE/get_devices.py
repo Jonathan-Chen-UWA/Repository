@@ -1,5 +1,7 @@
 import requests
 import json
+import sys
+sys.path.append(r'C:\Python\Repository\DNAC-AUTH')
 
 # Load DNAC_IP and DNAC_TOKEN from dnac-auth
 from dnac_auth import DNAC_IP, DNAC_TOKEN
