@@ -26,7 +26,10 @@ if response.status_code == 200:
 
     # Print the list of switches
     for switch in switches:
-        print(f"{switch['hostname']} ({switch['managementIpAddress']})")
+        SWITCH_ID = f"{switch['id']}"
+        print(f"{switch['hostname']} ({switch['managementIpAddress']}) id {SWITCH_ID}")
+        
+
 
 else:
     print(f"Failed to obtain the network device data. Status code: {response.status_code}")
