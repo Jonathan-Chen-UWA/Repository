@@ -1,0 +1,1292 @@
+#################
+###001-m01-a-1.net.uwa.edu.au
+#################
+serial number OPM26071JU1
+serial number OPM26071JU0
+
+#################
+###101-303-a-1.net.uwa.edu.au
+#################
+serial number OPM26070NL0
+
+#################
+###101-g11a-a-1.net.uwa.edu.au
+#################
+serial number FNS170703H9
+serial number OPM26070NKU
+serial number OPM26070NKR
+
+#################
+###102-142-a-1.net.uwa.edu.au
+#################
+serial number ACW26271MUM
+
+#################
+###102-b02a-a-1.net.uwa.edu.au
+#################
+serial number ACW26271MSZ
+
+#################
+###102-b14-a-1.net.uwa.edu.au
+#################
+serial number ACW26281TN2
+
+#################
+###102-b14-g-1.net.uwa.edu.au
+#################
+serial number ACW26281TMF
+serial number ACW26281TNC
+serial number ACW26281TM6
+serial number ACW26271MT4
+serial number ACW26281TN9
+
+#################
+###103-g47-a-1.net.uwa.edu.au
+#################
+serial number ACW251223WT
+
+#################
+###103-g62-a-1.net.uwa.edu.au
+#################
+serial number ACW25501VB8
+serial number ACW25501VAW
+serial number ACW25501VAQ
+
+#################
+###106-158a-a-1.net.uwa.edu.au
+#################
+serial number OPM26071641
+
+#################
+###106-158a-a-2.net.uwa.edu.au
+#################
+serial number OPM26071646
+
+#################
+###106-301-a-1.net.uwa.edu.au
+#################
+serial number OPM260714P0
+
+#################
+###106-301-a-2.net.uwa.edu.au
+#################
+serial number OPM260714PG
+
+#################
+###106-301-g-1.net.uwa.edu.au
+#################
+serial number OPM26071647
+serial number OPM260714P6
+serial number OPM260714P9
+serial number OPM260714P3
+serial number OPM260714PE
+serial number OPM260714PN
+
+#################
+###108-g03-a-1.net.uwa.edu.au
+#################
+serial number OPM260714TS
+serial number OPM260714N4
+
+#################
+###131-g16c-a-1.net.uwa.edu.au
+#################
+serial number OPM260715KQ
+serial number AVD2004R18Z
+
+#################
+###142-g07a-g-1.net.uwa.edu.au
+#################
+serial number ACW26271MRR
+serial number ACW26271MRV
+serial number ACW26280GFW
+serial number ACW26280GEP
+serial number ACW26280GEX
+
+#################
+###143-g37-a-1.net.uwa.edu.au
+#################
+serial number ACW25501V9Z
+serial number ACW25501VA2
+
+#################
+###144-201-a-1.net.uwa.edu.au
+#################
+serial number OPM260714Y4
+serial number OPM260714XA
+
+#################
+###190-b30-a-1.net.uwa.edu.au
+#################
+serial number OPM26150FM3
+serial number OPM26150FLR
+
+#################
+###210-g88-a-1.net.uwa.edu.au
+#################
+serial number OPM260714TT
+serial number OPM260714U5
+
+#################
+###211-1100-a-1.net.uwa.edu.au
+#################
+serial number OPM260714XS
+
+#################
+###211-1100-g-1.net.uwa.edu.au
+#################
+serial number OPM2607163K
+serial number OPM260714PS
+serial number OPM26071JRX
+serial number OPM2607163L
+serial number OPM26071JRU
+serial number OPM260714Y6
+serial number OPM26071JRT
+serial number OPM2607163P
+serial number OPM260714PF
+serial number OPM2607163M
+serial number OPM2607163N
+serial number OPM26071JRS
+
+#################
+###211-1113-a-1.net.uwa.edu.au
+#################
+serial number OPM26071JP8
+
+#################
+###211-2100-a-1.net.uwa.edu.au
+#################
+serial number OPM26071JPE
+
+#################
+###211-2113-a-1.net.uwa.edu.au
+#################
+serial number OPM26071JPB
+
+#################
+###211-3100-a-1.net.uwa.edu.au
+#################
+serial number OPM26071JTY
+
+#################
+###211-3112-a-1.net.uwa.edu.au
+#################
+serial number OPM26071JPA
+
+#################
+###211-4100-a-1.net.uwa.edu.au
+#################
+serial number OPM26071JTX
+
+#################
+###211-4113-a-1.net.uwa.edu.au
+#################
+serial number OPM26071JP9
+
+#################
+###211-g100-a-1.net.uwa.edu.au
+#################
+serial number OPM26071JRR
+
+#################
+###211-g113-a-1.net.uwa.edu.au
+#################
+serial number OPM2607166Q
+
+#################
+###222-187-a-1.net.uwa.edu.au
+#################
+serial number AVD2238K0PH
+
+#################
+###222-187-a-2.net.uwa.edu.au
+#################
+serial number AVD2238K0PA
+
+#################
+###222-187-g-1.net.uwa.edu.au
+#################
+serial number ACW251224AB
+serial number ACW251224ER
+serial number ACW25122497
+serial number ACW251224J1
+
+#################
+###223-197-a-1.net.uwa.edu.au
+#################
+serial number OPM260713QX
+serial number OPM260713QS
+
+#################
+###223-224a-a-1.net.uwa.edu.au
+#################
+serial number OPM2607165N
+
+#################
+###223-224a-a-2.net.uwa.edu.au
+#################
+serial number OPM2607165Q
+
+#################
+###223-224a-g-1.net.uwa.edu.au
+#################
+serial number OPM260713R0
+serial number OPM2607165S
+serial number OPM260713PN
+serial number OPM2607165P
+serial number OPM2607165R
+
+#################
+###223-g33a-a-1.net.uwa.edu.au
+#################
+serial number OPM260713R6
+serial number OPM260713R3
+
+#################
+###223-g48-a-1.net.uwa.edu.au
+#################
+serial number OPM260713S1
+
+#################
+###225-162-a-1.net.uwa.edu.au
+#################
+serial number ACW26281TMA
+
+#################
+###225-162-g-1.net.uwa.edu.au
+#################
+serial number ACW26281TNE
+serial number ACW26281TN8
+serial number ACW26271MT7
+serial number ACW26281TMS
+serial number ACW26281TME
+
+#################
+###225-201-a-1.net.uwa.edu.au
+#################
+serial number ACW26271MTN
+
+#################
+###225-b12a-a-1.net.uwa.edu.au
+#################
+serial number ACW26271MTT
+
+#################
+###226-163-a-1.net.uwa.edu.au
+#################
+serial number OPM26070NLE
+
+#################
+###226-163-g-1.net.uwa.edu.au
+#################
+serial number OPM26071JRZ
+serial number OPM26071JS1
+serial number OPM26071JS0
+serial number OPM26071JS4
+
+#################
+###226-275-a-1.net.uwa.edu.au
+#################
+serial number OPM26070NPG
+
+#################
+###227-g61-a-1.net.uwa.edu.au
+#################
+serial number ACW26280GFU
+serial number OPM260714XM
+
+#################
+###235-g06f-a-1.net.uwa.edu.au
+#################
+serial number OPM260713Q4
+serial number OPM260713Q1
+
+#################
+###238-134-g-1.net.uwa.edu.au
+#################
+serial number FNS17282TC6
+serial number AGM191642RT
+serial number FNS17400C7V
+
+#################
+###238-g02-a-1.net.uwa.edu.au
+#################
+serial number MTC173103A3
+
+#################
+###241-104-a-1.net.uwa.edu.au
+#################
+serial number ACW2512240T
+serial number ACW251223Z3
+
+#################
+###242-g01-a-1.net.uwa.edu.au
+#################
+serial number OPM260713PJ
+serial number OPM260713PA
+
+#################
+###245-1136-a-1.net.uwa.edu.au
+#################
+serial number OPM260714PM
+
+#################
+###245-1139-a-1.net.uwa.edu.au
+#################
+serial number OPM260714PL
+
+#################
+###245-233-a-1.net.uwa.edu.au
+#################
+serial number OPM26071JTK
+
+#################
+###245-233-g-1.net.uwa.edu.au
+#################
+serial number OPM26071669
+serial number OPM2607166F
+serial number OPM260714XY
+serial number OPM260714YB
+serial number OPM260714PJ
+serial number OPM260714PQ
+serial number OPM260714P1
+serial number OPM2607166B
+serial number OPM2607166H
+serial number OPM2607166J
+serial number OPM260714NY
+
+#################
+###245-313-a-1.net.uwa.edu.au
+#################
+serial number OPM260714P7
+
+#################
+###245-496-a-1.net.uwa.edu.au
+#################
+serial number OPM260714Y5
+
+#################
+###245-b47-a-1.net.uwa.edu.au
+#################
+serial number OPM260714PH
+
+#################
+###245-b90-a-1.net.uwa.edu.au
+#################
+serial number OPM260714P4
+
+#################
+###245-dem-a-1.net.uwa.edu.au
+#################
+serial number OPM260714TA
+
+#################
+###245-g02-a-1.net.uwa.edu.au
+#################
+serial number OPM260714XE
+
+#################
+###248-g41-a-1.net.uwa.edu.au
+#################
+serial number FNS173210B1
+
+#################
+###248-g41-a-2.net.uwa.edu.au
+#################
+serial number AGD1611V0SU
+
+#################
+###248-test-a-1.net.uwa.edu.au
+#################
+serial number AVD2125KENB
+
+#################
+###248-test-g-1.net.uwa.edu.au
+#################
+serial number OPM26070NLN
+serial number OPT20340190
+
+#################
+###272-g16a-a-1.net.uwa.edu.au
+#################
+serial number OPM2607166P
+serial number OPM2607166T
+
+#################
+###274-g27-a-1.net.uwa.edu.au
+#################
+serial number OPM26071655
+serial number OPM2607165A
+
+#################
+###275-g86-a-1.net.uwa.edu.au
+#################
+serial number OPM230905MG
+
+#################
+###275-g86-a-2.net.uwa.edu.au
+#################
+serial number OPM230905YH
+
+#################
+###275-g86-a-3.net.uwa.edu.au
+#################
+serial number ACW251224CN
+
+#################
+###275-g86-g-1.net.uwa.edu.au
+#################
+serial number FNS17300THP
+serial number ACW251224JT
+serial number ACW2512244X
+serial number ACW251223WK
+serial number ACW25122487
+
+#################
+###329-113-a-1.net.uwa.edu.au
+#################
+serial number OPM260713SJ
+
+#################
+###329-113-g-1.net.uwa.edu.au
+#################
+serial number OPM260715L5
+serial number OPM260715KY
+serial number OPM260713S8
+serial number OPM260713S0
+serial number OPM260713SF
+serial number OPM260715KP
+
+#################
+###329-155-a-1.net.uwa.edu.au
+#################
+serial number OPM260713QY
+
+#################
+###329-192-a-1.net.uwa.edu.au
+#################
+serial number OPM260713R1
+
+#################
+###329-226-a-1.net.uwa.edu.au
+#################
+serial number OPM260713R4
+
+#################
+###330-184a-a-1.net.uwa.edu.au
+#################
+serial number ECL144601LE
+serial number FNS2227041Z
+
+#################
+###338-173-a-1.net.uwa.edu.au
+#################
+serial number OPM26071JRY
+
+#################
+###338-211-a-1.net.uwa.edu.au
+#################
+serial number OPM26071659
+
+#################
+###338-211-g-1.net.uwa.edu.au
+#################
+serial number OPM260714U2
+serial number OPM260713S2
+serial number OPM260713PF
+serial number OPM260713NX
+
+#################
+###338-g77-a-1.net.uwa.edu.au
+#################
+serial number OPM260713S4
+
+#################
+###345-197-a-1.net.uwa.edu.au
+#################
+serial number ACW2512244N
+
+#################
+###345-210-a-1.net.uwa.edu.au
+#################
+serial number ACW2512244S
+
+#################
+###345-g01c-a-1.net.uwa.edu.au
+#################
+serial number ACW25501VAT
+
+#################
+###345-g01c-g-1.net.uwa.edu.au
+#################
+serial number ACW25122464
+serial number ACW251223Y0
+serial number ACW25501VB7
+serial number ACW25501VB1
+serial number ACW25501VB3
+
+#################
+###346-215a-a-1.net.uwa.edu.au
+#################
+serial number FNS244108R4
+serial number ACW2512241H
+
+#################
+###347-234-a-1.net.uwa.edu.au
+#################
+serial number OPM2607163T
+
+#################
+###347-g14-a-1.net.uwa.edu.au
+#################
+serial number OPM26070NLJ
+
+#################
+###347-g14-g-1.net.uwa.edu.au
+#################
+serial number OPM260713P3
+serial number OPM260713P6
+serial number OPM260713P0
+serial number OPM2607163R
+
+#################
+###349-101-a-1.net.uwa.edu.au
+#################
+serial number OPM260715K9
+serial number OPM260715KN
+
+#################
+###351-192a-a-1.net.uwa.edu.au
+#################
+serial number AVD2041K04M
+
+#################
+###351-293-a-1.net.uwa.edu.au
+#################
+serial number FNS2441044E
+
+#################
+###351-g91-a-1.net.uwa.edu.au
+#################
+serial number FNS24410456
+
+#################
+###351-g91-g-1.net.uwa.edu.au
+#################
+serial number FNS244108RD
+serial number FNS244108SA
+serial number AVD2041K1L7
+serial number FNS244108S9
+serial number FNS24410439
+
+#################
+###352-218-a-1.net.uwa.edu.au
+#################
+serial number OPM260715K7
+
+#################
+###352-218-a-2.net.uwa.edu.au
+#################
+serial number OPM26071JTS
+
+#################
+###352-218-g-1.net.uwa.edu.au
+#################
+serial number OPM260715K6
+serial number OPM260714U3
+serial number OPM260714T9
+serial number OPM260714U0
+
+#################
+###352-2205-a-1.net.uwa.edu.au
+#################
+serial number OPM260715KF
+
+#################
+###352-2205-a-2.net.uwa.edu.au
+#################
+serial number OPM260715KB
+
+#################
+###352-2205-g-1.net.uwa.edu.au
+#################
+serial number OPM2607166A
+serial number OPM26071668
+serial number OPM260715KE
+serial number OPM26071667
+
+#################
+###401-2001a-a-1.net.uwa.edu.au
+#################
+serial number ACW26271MTE
+serial number ACW26271MUL
+
+#################
+###410-g11-a-1.net.uwa.edu.au
+#################
+serial number ACW26281TMH
+serial number ACW26281TN0
+
+#################
+###441-1187-a-1.net.uwa.edu.au
+#################
+serial number FNS2227041N
+serial number ACW25501VAG
+
+#################
+###441-1187-a-3.net.uwa.edu.au
+#################
+serial number ACW251224GE
+
+#################
+###441-1187-a-4.net.uwa.edu.au
+#################
+serial number ACW205314GR
+serial number AVJ204038LW
+serial number JPC21440238-B
+serial number OPM21200NTQ
+serial number ACW205314FY
+serial number FNS151609HV
+serial number ACW205314GX
+serial number AGC1526UR3P
+serial number ACW20520SX6
+serial number ACW20510NT9
+serial number ACW205314G9
+serial number ACW205314GA
+serial number ACW205314GZ
+serial number ACW205314GU
+serial number FNS15150XMX
+serial number ACW205314GQ
+serial number ACW20520MVJ
+serial number ACW20531A2J
+serial number OPM21200NTS
+serial number AVJ204038LV
+serial number AVJ204035NA
+serial number OPM21230G95
+serial number AVJ204037F9
+serial number ACW205314FX
+
+#################
+###441-1187-a-5.net.uwa.edu.au
+#################
+serial number AVJ204038ND
+serial number ACW205319W5
+serial number ACW20531A34
+serial number JPC2144023A-B
+serial number AVJ20403AAY
+serial number FNS15150Z7S
+serial number ACW205312EW
+serial number ACW205313D7
+serial number OPM21230GAA
+serial number ACW205312EH
+serial number ACW20520HMR
+serial number AVJ20403ABN
+serial number FNS19341WAH
+serial number ACW205312FG
+serial number AGT1123U1AV
+serial number ACW205314GC
+serial number AVJ20403A4Z
+serial number FNS111602CE
+serial number OPM20330L04
+serial number AVJ204038LL
+serial number ACW205314G5
+serial number AVJ204039RT
+serial number AVJ20403A5F
+serial number FNS15150Z3V
+serial number ACW203807G1
+
+#################
+###441-1187-a-6.net.uwa.edu.au
+#################
+serial number ACW205313D8
+serial number ACW205312EU
+serial number ACW205313CS
+serial number FNS1833078A
+serial number ACW203807EZ
+serial number FNS151609FA
+serial number ACW20520SLR
+serial number ACW205314GB
+serial number ACW20520STH
+serial number ACW205314H0
+serial number ACW203809XP
+serial number FNS115003001
+serial number ACW203806UV
+serial number AVJ204039SC
+serial number ACW205314GS
+serial number FNS15150ZC2
+serial number FNS15150XMQ
+serial number ACW205312EX
+serial number FNS115003152
+serial number ACW20350EJP
+serial number ACW205314G7
+serial number JPC21440236-B
+serial number AVJ20403ABJ
+serial number ACW205312EM
+serial number ACW20380A99
+
+#################
+###441-1187-g-1.net.uwa.edu.au
+#################
+serial number ACW251224KF
+serial number JPC21440238-A
+serial number ACW25501V9Q
+serial number ACW2512240Y
+serial number FNS244101SB
+serial number ACW25501VAH
+serial number ACW25501WRK
+serial number ACW251223XP
+serial number JPC21440236-A
+serial number JPC2144023A-A
+
+#################
+###441-1190-a-1.net.uwa.edu.au
+#################
+serial number ACW25501V9Y
+
+#################
+###441-1190-a-2.net.uwa.edu.au
+#################
+serial number ACW25122431
+
+#################
+###441-124-e-10.net.uwa.edu.au
+#################
+serial number ACW205312ET
+
+#################
+###441-124-e-1.net.uwa.edu.au
+#################
+serial number ACW205314GE
+
+#################
+###441-124-e-2.net.uwa.edu.au
+#################
+serial number ACW20531A2L
+
+#################
+###441-124-e-3.net.uwa.edu.au
+#################
+serial number ACW205312ER
+
+#################
+###441-124-e-4.net.uwa.edu.au
+#################
+serial number ACW20531A2N
+
+#################
+###441-124-e-5.net.uwa.edu.au
+#################
+serial number ACW205314GY
+
+#################
+###441-124-e-6.net.uwa.edu.au
+#################
+serial number ACW205314GV
+
+#################
+###441-124-e-7.net.uwa.edu.au
+#################
+serial number ACW205319VZ
+
+#################
+###441-124-e-8.net.uwa.edu.au
+#################
+serial number ACW205312EK
+
+#################
+###441-124-e-9.net.uwa.edu.au
+#################
+serial number ACW205314G0
+
+#################
+###441-g04-e-1.net.uwa.edu.au
+#################
+serial number AVJ2040393H
+
+#################
+###441-g04-e-2.net.uwa.edu.au
+#################
+serial number ACW2038076G
+
+#################
+###441-g04-e-3.net.uwa.edu.au
+#################
+serial number ACW203807JC
+
+#################
+###441-g04-e-4.net.uwa.edu.au
+#################
+serial number AVJ204039RP
+
+#################
+###441-g04-e-5.net.uwa.edu.au
+#################
+serial number ACW203809Y7
+
+#################
+###441-g05-e-1.net.uwa.edu.au
+#################
+serial number ACW24431E2N
+
+#################
+###441-g05-e-2.net.uwa.edu.au
+#################
+serial number ACW203807G9
+
+#################
+###441-g05-e-3.net.uwa.edu.au
+#################
+serial number ACW20380A91
+
+#################
+###441-G05-e-4.net.uwa.edu.au
+#################
+serial number ACW203809Y6
+
+#################
+###441-g05-e-5.net.uwa.edu.au
+#################
+serial number ACW20360CCL
+
+#################
+###446-193-a-1.net.uwa.edu.au
+#################
+serial number OPM26071JPF
+
+#################
+###446-193-g-1.net.uwa.edu.au
+#################
+serial number OPM260714TH
+serial number OPM260714TP
+serial number OPM260714TL
+serial number OPM260714TB
+serial number OPM260714XU
+serial number OPM260714U1
+
+#################
+###446-293-a-1.net.uwa.edu.au
+#################
+serial number OPM26071JPH
+
+#################
+###446-348-a-1.net.uwa.edu.au
+#################
+serial number OPM26071JPG
+
+#################
+###446-g93-a-1.net.uwa.edu.au
+#################
+serial number OPM26071JPJ
+
+#################
+###449-g50-a-1.net.uwa.edu.au
+#################
+serial number ACW26271MUN
+serial number OPM26071645
+
+#################
+###450-g11a-a-1.net.uwa.edu.au
+#################
+serial number OPM260714Y2
+serial number OPM26071JTE
+
+#################
+###499-101h-a-1.net.uwa.edu.au
+#################
+serial number OPM26070NL6
+
+#################
+###499-101h-a-2.net.uwa.edu.au
+#################
+serial number OPM260715KU
+
+#################
+###499-101h-g-1.net.uwa.edu.au
+#################
+serial number OPM260715L2
+serial number OPM260715L4
+serial number OPM26070NL3
+serial number OPM260715L6
+
+#################
+###501-118-a-1.net.uwa.edu.au
+#################
+serial number OPM260714TG
+serial number OPM260714TK
+
+#################
+###507-g15-a-1.net.uwa.edu.au
+#################
+serial number OPM260714Y8
+serial number OPM260715KS
+
+#################
+###606-131-a-1.net.uwa.edu.au
+#################
+serial number OPM260714PR
+serial number OPM260714P8
+
+#################
+###655-g04a-a-1.net.uwa.edu.au
+#################
+serial number OPM260714XG
+serial number OPM260714XT
+
+#################
+###658-1120c-a-1.net.uwa.edu.au
+#################
+serial number OPM260715KT
+
+#################
+###658-155-a-3.net.uwa.edu.au
+#################
+serial number ACW25501V9U
+
+#################
+###658-214-a-1.net.uwa.edu.au
+#################
+serial number AVD2302K4EK
+
+#################
+###658-240-a-3.net.uwa.edu.au
+#################
+serial number OPM26071658
+
+#################
+###658-b105-a-1.net.uwa.edu.au
+#################
+serial number ACW25501VAJ
+
+#################
+###658-b105-g-2.net.uwa.edu.au
+#################
+serial number ACW25501VAM
+serial number ACW25501VAA
+serial number ACW25501VAC
+serial number FNS17300THW
+serial number ACW25501VBB
+serial number ACW25501VAS
+serial number ACW25501V9X
+serial number ACW25501VBA
+serial number ACW25501VBL
+
+#################
+###658-g121a-a-3.net.uwa.edu.au
+#################
+serial number ACW25501V9E
+
+#################
+###658-g47-a-3.net.uwa.edu.au
+#################
+serial number ACW25501VA6
+
+#################
+###661-111-a-1.net.uwa.edu.au
+#################
+serial number OPM260713SA
+
+#################
+###661-111-g-1.net.uwa.edu.au
+#################
+serial number OPM230905N1
+serial number OPM230905MZ
+serial number OPM260714XB
+serial number OPM260714XN
+
+#################
+###661-g09-a-1.net.uwa.edu.au
+#################
+serial number OPM230905N0
+
+#################
+###671-g09-a-1.net.uwa.edu.au
+#################
+serial number OPM260713PY
+serial number OPM260714TF
+
+#################
+###673-101a-a-1.net.uwa.edu.au
+#################
+serial number ACW243813H6
+
+#################
+###673-b85-a-1.net.uwa.edu.au
+#################
+serial number ACW243813HH
+serial number ACW24492KJ2
+serial number ACW243813GM
+
+#################
+###681-207a-a-1.net.uwa.edu.au
+#################
+serial number ACW26281TND
+
+#################
+###681-207a-a-2.net.uwa.edu.au
+#################
+serial number ACW26281TNJ
+
+#################
+###681-207a-g-1.net.uwa.edu.au
+#################
+serial number ACW26271MT2
+serial number ACW26271MTD
+serial number ACW26271MTJ
+serial number ACW26271MTS
+
+#################
+###682-171-a-1.net.uwa.edu.au
+#################
+serial number OPM260715KR
+
+#################
+###682-271-a-1.net.uwa.edu.au
+#################
+serial number OPM260715KM
+
+#################
+###682-b71-a-1.net.uwa.edu.au
+#################
+serial number OPM260715KZ
+
+#################
+###682-b71-g-1.net.uwa.edu.au
+#################
+serial number FNS244101UP
+serial number OPM260715L0
+serial number OPM2607165G
+serial number FNS24410905
+serial number FNS244108S5
+
+#################
+###684-g15-a-1.net.uwa.edu.au
+#################
+serial number OPM26071JTZ
+serial number OPM26071JTR
+
+#################
+###685-g03a-a-1.net.uwa.edu.au
+#################
+serial number ACW26280GEZ
+serial number ACW26280GE8
+
+#################
+###fairway-dr-04.net.uwa.edu.au
+#################
+serial number ACW2521008W
+serial number AVM2505U2DZ
+serial number OPM2607165F
+serial number FNS244101R5
+serial number ACW26281TMC
+serial number OPM2607165B
+serial number AVM2505U2EG
+serial number OPM26071JQ3
+serial number OPM260714NZ
+serial number FNS244101LD
+serial number AVM2505U2E0
+serial number ACW252018LK
+serial number OPM260714TM
+serial number FNS2441046Q
+serial number FNS244101UJ
+serial number OPM260714XQ
+serial number OPM260714XR
+serial number OPM26071JTQ
+serial number FNS24410907
+serial number OPM260714XJ
+serial number ACW26280GET
+serial number OPM260714P2
+serial number FNS17320NAJ
+serial number OPM260714XZ
+serial number ACW26281TMR
+serial number ACW26280GEJ
+serial number OPM260714TJ
+serial number ACW243813HA
+serial number AVM2505U2DY
+serial number FNS244101ML
+
+#################
+###physics-br-02.net.uwa.edu.au
+#################
+serial number ACW25211E8H
+serial number ACW25211EGN
+serial number ACW25211EHG
+serial number ACW25211EM1
+serial number ACW25211E8L
+serial number ACW25211EH2
+
+#################
+###physics-cr-02.net.uwa.edu.au
+#################
+serial number ACW25211EH0
+serial number ACW25211E8N
+serial number ACW252018LJ
+serial number ACW25211EH5
+serial number ACW25211ELV
+serial number ACW25211EHC
+serial number ACW25211E8M
+serial number ACW25211EHA
+
+#################
+###physics-dr-04.net.uwa.edu.au
+#################
+serial number OPM260713RA
+serial number OPM260713QM
+serial number OPM26071656
+serial number ACW26271MSF
+serial number OPM260714PK
+serial number OPM260713RZ
+serial number AVF2147U1JV
+serial number AVF2147U2LF
+serial number OPM260713QJ
+serial number OPM260713RN
+serial number ACW26271MUG
+serial number OPM260714PT
+serial number FNS17030YY0
+serial number OPM2607166E
+serial number OPM260713PT
+serial number OPM2607163X
+serial number ACW25501V9W
+serial number OPM260714XX
+serial number OPM2607163Q
+serial number ACW26280GEU
+serial number OPM260713QQ
+serial number AVD2249K8BJ
+serial number ACW25211EN7
+serial number OPM26071JU3
+serial number ACW251224DQ
+serial number OPM26070NL9
+serial number FNS244108SU
+serial number ACW25501VBN
+serial number OPM260713PM
+serial number OPM2607166R
+serial number OPM22350RLJ
+serial number OPM2607163Z
+serial number ACW25122425
+serial number ACW25122479
+serial number ACW25501VBQ
+serial number OPM260714TX
+serial number ACW25211E8G
+serial number OPM26071666
+serial number ACW26271MUP
+serial number OPM26150FM9
+serial number OPM260714TU
+serial number OPM26071JU2
+serial number OPM260713S3
+serial number OPM260713RY
+serial number OPM260713QF
+serial number ACW25501V9V
+serial number ACW26271MUA
+serial number OPM260713PQ
+serial number ACW251223ZL
+serial number OPM260714U6
+serial number ACW2512241W
+serial number ACW26271MTZ
+serial number OPM26071657
+serial number OPM26150FLS
+serial number AVF2147U1KM
+serial number ACW25501VAF
+serial number ACW2512241K
+serial number OPM260714PB
+serial number ACW25501V9M
+serial number AVF2147U2JJ
+serial number ACW2512247A
+serial number OPM26071665
+serial number OPM260714P5
+serial number OPM26071JTL
+serial number OPM260715KH
+serial number ACW25122453
+serial number OPM260714U4
+serial number OPM260715KA
+
+#################
+###qe2-dr-04.net.uwa.edu.au
+#################
+serial number AVM2505U2DF
+serial number ACW2512240B
+serial number OPM260714TN
+serial number ACW251224CF
+serial number ACW2512245D
+serial number ACW25211E8F
+serial number OPM260715KX
+serial number OPM260714TE
+serial number ACW251224AJ
+serial number ACW25211EH9
+serial number AVM2505U2D9
+serial number OPM260714S5
+serial number AVM2505U2D0
+serial number AVM2505U2D3
+serial number OPM260714TR
+serial number OPM260715L7
+
+#################
+###reid-br-02.net.uwa.edu.au
+#################
+serial number ACW2521008U
+serial number ACW25211EGQ
+serial number ACW25211EGY
+serial number ACW25211EGZ
+serial number ACW25211ELS
+serial number ACW25211ELU
+
+#################
+###reid-cr-02.net.uwa.edu.au
+#################
+serial number ACW25470J45
+serial number ACW25211EGW
+serial number ACW25471CVT
+serial number ACW25211EH3
+serial number ACW25211E8K
+serial number ACW25211EGV
+serial number ACW25211EGU
+serial number ACW25470J4G
+
+#################
+###science-dr-04.net.uwa.edu.au
+#################
+serial number ACW25501VB5
+serial number FNS19150F3P
+serial number ACW251224KS
+serial number OPM22491AQ6
+serial number AVM2452U189
+serial number ACW26281TNF
+serial number ACW26281TMG
+serial number ACW25501VAD
+serial number SPC164706DN
+serial number OPM260714TQ
+serial number AVM2452U186
+serial number AVM2452U184
+serial number ACW25501VAY
+serial number OPM26071JPM
+serial number OPM260713QT
+serial number ACW25501VQR
+serial number ACW25211ELN
+serial number ACW25501VRJ
+serial number OPM260714TY
+serial number FNS244108X7
+serial number OPM260713R7
+serial number ACW2521008L
+serial number OPM260714T8
+serial number FNS17300UUP
+serial number ACW26271MTM
+serial number ACW25501VAV
+serial number OPM260714X8
+serial number OPM26071JTN
+serial number OPM26071640
+serial number AVM2452U18A
+serial number OPM260713RR
+serial number FNS17400C74
+serial number OPM260713RK
+serial number OPM260714NX
+serial number ACW26271MT5
+serial number ACW26281TML
+serial number SPC164706UC
+serial number OPM260713Q7
+serial number FNS2441090Q
+serial number OPM260713QA
+serial number FNS17282L7W
+serial number ECL144600ZZ
+serial number OPM260714PP
+serial number FNS244108XS
+
+Failed to obtain the network device data. Status code: 200
+{"response":[],"version":"1.0"}
