@@ -1288,5 +1288,3 @@ serial number ECL144600ZZ
 serial number OPM260714PP
 serial number FNS244108XS
 
-Failed to obtain the network device data. Status code: 200
-{"response":[],"version":"1.0"}
