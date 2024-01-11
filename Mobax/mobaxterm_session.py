@@ -2,7 +2,7 @@ import pandas as pd
 import tkinter as tk
 
 # Replace with the path to your Excel file
-excel_file = 'Device-Inventory.xlsx'
+excel_file = 'C:\Python\Repository\Mobax\Device-Inventory.xlsx'
 
 # Replace with the sheet name that contains the data
 sheet_name = 'Device-Inventory'
@@ -12,7 +12,7 @@ device_col = 'Device Name'
 ip_col = 'IP Address'
 
 # Replace with the desired output file name
-output_file = 'output.txt'
+output_file = 'C:\Python\Repository\Mobax\output.txt'
 
 # Load the Excel data into a pandas dataframe
 df = pd.read_excel(excel_file, sheet_name=sheet_name)

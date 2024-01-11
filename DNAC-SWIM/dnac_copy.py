@@ -2,8 +2,7 @@ import requests
 import json
 import time
 import logging
-import argparse
-from dnac_config import DNAC, DNAC_PORT
+from dnac_config import DNAC, DNAC_PORT, DNAC_USER, DNAC_PASSWORD
 from requests.auth import HTTPBasicAuth
 requests.packages.urllib3.disable_warnings()
 
@@ -34,11 +33,12 @@ def create_url(path, version=1, controller_ip=DNAC):
 
 
 
-def get_auth_token(controller_ip=DNAC, username=None, password=None):
-    ### Authenticates with controller and returns a token to be used in subsequent API invocations
-    
+def get_auth_token(controller_ip=DNAC, username=DNAC_USER, password=DNAC_PASSWORD):
+    """ Authenticates with controller and returns a token to be used in subsequent API invocations
+    """
+
     login_url = "https://{0}:{1}/api/system/v1/auth/token".format(controller_ip, DNAC_PORT)
-    result = requests.post(url=login_url, auth=(username, password), verify=False)
+    result = requests.post(url=login_url, auth=HTTPBasicAuth(DNAC_USER, DNAC_PASSWORD), verify=False)
     result.raise_for_status()
 
     token = result.json()["Token"]
@@ -46,8 +46,6 @@ def get_auth_token(controller_ip=DNAC, username=None, password=None):
         "controller_ip": controller_ip,
         "token": token
     }
-
-
 
 def wait_on_task(task_id, token, timeout=(5*RETRY_INTERVAL), retry_interval=RETRY_INTERVAL):
     """ Waits for the specified task to complete
@@ -81,14 +79,3 @@ def wait_on_task(task_id, token, timeout=(5*RETRY_INTERVAL), retry_interval=RETR
             raise TaskError("Task %s had error %s" % (task_id, response['progress']))
 
     return response
-
-
-
-if __name__ == "__main__":
-    parser = argparse.ArgumentParser(description='Authenticate with Cisco DNA Center API')
-    parser.add_argument('-username', required=True, help='Username for authentication')
-    parser.add_argument('-password', required=True, help='Password for authentication')
-
-    args = parser.parse_args()
-    get_auth_token(controller_ip=DNAC, username=args.username, password=args.password)  # Store the returned token
-    
