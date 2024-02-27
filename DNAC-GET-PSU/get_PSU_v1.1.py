@@ -103,6 +103,8 @@ for switch in switches:
 
     if 'Name' in switch_psu_data.columns:
         switch_psu_data = switch_psu_data.sort_values(by='Name')
+        # Delete rows where 'Name' contains "-g-"
+        switch_psu_data = switch_psu_data[~switch_psu_data['Name'].str.contains("-g-", na=False)]
     else:
         print(f"'Name' column not found in the DataFrame for switch {switch_hostname}")
 
