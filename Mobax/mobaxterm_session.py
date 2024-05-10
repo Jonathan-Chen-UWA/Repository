@@ -1,12 +1,27 @@
 import pandas as pd
 import tkinter as tk
+import openpyxl
+
+
+from pyexcel.cookbook import merge_all_to_a_book
+# import pyexcel.ext.xlsx # no longer required if you use pyexcel >= 0.2.2 
+import glob
+merge_all_to_a_book(glob.glob("C:\Python\Repository\Mobax\Devices-05-10-2024.csv"), "C:\Python\Repository\Mobax\Device-Inventory.xlsx")
+
+
 
 # Replace with the path to your Excel file
 excel_file = 'C:\Python\Repository\Mobax\Device-Inventory.xlsx'
 
 # Replace with the sheet name that contains the data
-sheet_name = 'Device-Inventory'
+#sheet_name = 'Device-Inventory'
+from openpyxl import Workbook, load_workbook
+wb = load_workbook(excel_file)
+for sheet in wb.sheetnames:
+    ws = wb[sheet]
+    sheet_name = ws.title
 
+    
 # Replace with the names of the columns that contain the Device and IP data
 device_col = 'Device Name'
 ip_col = 'IP Address'
