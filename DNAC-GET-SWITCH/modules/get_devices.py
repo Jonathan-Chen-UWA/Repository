@@ -3,28 +3,14 @@ import json
 import argparse
 
 
-from dnac_auth import authenticate, DNAC_IP
+from dnac_auth import DNAC_IP
 
-if __name__ == "__main__":
-    parser = argparse.ArgumentParser(description='Authenticate with Cisco DNA Center API')
-    parser.add_argument('-username', required=True, help='Username for authentication')
-    parser.add_argument('-password', required=True, help='Password for authentication')
-
-    args = parser.parse_args()
-    token = authenticate(args.username, args.password)  # Store the returned token
-
-    if token:
-        headers = {
-            "Content-Type": "application/json",
-            "X-Auth-Token": token  # Use the obtained token in subsequent requests
-        }
-
-def get_all_devices(DNAC_IP, headers, limit=500):
+def get_all_devices(DNAC_IP, headers):
     DNAC_GET_DEVICE_URL = f"https://{DNAC_IP}/dna/intent/api/v1/network-device"
 
     all_devices = []
     offset = 1
-
+    limit=500
     while True:
         params = {
             'offset': offset,
@@ -45,11 +31,4 @@ def get_all_devices(DNAC_IP, headers, limit=500):
             break
     
     return (all_devices)
-
-# Usage:
-# Assuming you have DNAC_IP and headers defined
-all_devices_data = get_all_devices(DNAC_IP, headers, )
-#print(all_devices_data)
-#print(len(all_devices_data))
-
 
