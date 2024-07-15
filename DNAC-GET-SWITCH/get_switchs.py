@@ -51,7 +51,7 @@ if __name__ == "__main__":
         print(all_switch_hostnames)
 
         # List all switches in the sites
-        sites = [687, 420, 413, 689, 402, 344, 344, 405, 427, 416, 139, 444, 710, 711, 713, 4716, 224, 503, 104, 683, 432]
+        sites = [432, 683, 104, 503, 224, 711, 713, 4716, 710, 444, 139, 416, 427, 405, 344, 344, 402, 689, 413, 420, 687, 4601, 502]
         
         # Extract hostnames and check if they start with any site number
         site_switch_hostnames = [hostname for hostname in all_switch_hostnames if any(hostname.startswith(str(site)) for site in sites)]

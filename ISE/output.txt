@@ -1,0 +1,9 @@
+Identity Groups:
+ID: a176c430-8c01-11e6-996c-525400b48521, Name: ALL_ACCOUNTS (default)
+ID: a1740510-8c01-11e6-996c-525400b48521, Name: Employee
+ID: a1bb2030-8c01-11e6-996c-525400b48521, Name: GROUP_ACCOUNTS (default)
+ID: 9f048bb0-8c01-11e6-996c-525400b48521, Name: GuestType_Contractor (default)
+ID: 9eee92b0-8c01-11e6-996c-525400b48521, Name: GuestType_Daily (default)
+ID: cd58ca60-f945-11eb-953e-0050568fa723, Name: GuestType_SocialLogin (default)
+ID: 9efe2310-8c01-11e6-996c-525400b48521, Name: GuestType_Weekly (default)
+ID: a19d5f00-8c01-11e6-996c-525400b48521, Name: OWN_ACCOUNTS (default)
