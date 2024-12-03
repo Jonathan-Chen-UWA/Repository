@@ -28,7 +28,8 @@ def get_sfp_serial_number(switch_id):
     response = requests.get(DNAC_GET_SFP_URL, headers=headers, verify=False)
     sfps = json.loads(response.content)["response"]
     for sfp in sfps:
-            print(f"serial number {sfp['serialNumber']}")
+            ### DEBUG print(sfp)
+            print(f"{sfp['name']} {sfp['serialNumber']}")
     print()
 
 

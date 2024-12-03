@@ -1,1290 +1,2044 @@
 #################
 ###001-m01-a-1.net.uwa.edu.au
 #################
-serial number OPM26071JU1
-serial number OPM26071JU0
+TenGigabitEthernet1/1/4 OPM26071JU1
+TenGigabitEthernet1/1/3 OPM26071JU0
 
 #################
 ###101-303-a-1.net.uwa.edu.au
 #################
-serial number OPM26070NL0
+TenGigabitEthernet1/1/4 OPM26070NL0
 
 #################
 ###101-g11a-a-1.net.uwa.edu.au
 #################
-serial number FNS170703H9
-serial number OPM26070NKU
-serial number OPM26070NKR
+TenGigabitEthernet1/1/3 FNS170703H9
+TenGigabitEthernet1/1/1 OPM26070NKU
+TenGigabitEthernet1/1/4 OPM26070NKR
 
 #################
 ###102-142-a-1.net.uwa.edu.au
 #################
-serial number ACW26271MUM
+TenGigabitEthernet1/1/4 ACW26271MUM
 
 #################
 ###102-b02a-a-1.net.uwa.edu.au
 #################
-serial number ACW26271MSZ
+TenGigabitEthernet1/1/4 ACW26271MSZ
 
 #################
 ###102-b14-a-1.net.uwa.edu.au
 #################
-serial number ACW26281TN2
+TenGigabitEthernet1/1/4 ACW26281TN2
 
 #################
 ###102-b14-g-1.net.uwa.edu.au
 #################
-serial number ACW26281TMF
-serial number ACW26281TNC
-serial number ACW26281TM6
-serial number ACW26271MT4
-serial number ACW26281TN9
+TwentyFiveGigE1/0/3 ACW26281TMF
+TwentyFiveGigE1/0/24 ACW26281TNC
+TwentyFiveGigE1/0/1 ACW26281TM6
+TwentyFiveGigE1/0/23 ACW26271MT4
+TwentyFiveGigE1/0/2 ACW26281TN9
 
 #################
 ###103-g47-a-1.net.uwa.edu.au
 #################
-serial number ACW251223WT
+TenGigabitEthernet1/1/4 ACW251223WT
 
 #################
 ###103-g62-a-1.net.uwa.edu.au
 #################
-serial number ACW25501VB8
-serial number ACW25501VAW
-serial number ACW25501VAQ
+TenGigabitEthernet4/1/4 ACW25501VB8
+TenGigabitEthernet1/1/4 ACW25501VAW
+TenGigabitEthernet1/1/1 ACW25501VAQ
+
+#################
+###104-160-a-1.net.uwa.edu.au
+#################
+TenGigabitEthernet1/1/4 ACP2631104Y
+
+#################
+###104-b15-a-1.net.uwa.edu.au
+#################
+TenGigabitEthernet1/1/4 ACP2631104T
+
+#################
+###104-b15-g-1.net.uwa.edu.au
+#################
+TwentyFiveGigE1/0/1 ACW26271MT8
+TwentyFiveGigE1/0/23 ACP2631104G
+TwentyFiveGigE1/0/24 ACW26271MU7
+TwentyFiveGigE1/0/2 ACW26271MTV
 
 #################
 ###106-158a-a-1.net.uwa.edu.au
 #################
-serial number OPM26071641
+TenGigabitEthernet1/1/4 OPM26071641
 
 #################
 ###106-158a-a-2.net.uwa.edu.au
 #################
-serial number OPM26071646
+TenGigabitEthernet1/1/4 OPM26071646
 
 #################
 ###106-301-a-1.net.uwa.edu.au
 #################
-serial number OPM260714P0
+TenGigabitEthernet1/1/4 OPM260714P0
 
 #################
 ###106-301-a-2.net.uwa.edu.au
 #################
-serial number OPM260714PG
+TenGigabitEthernet1/1/4 OPM260714PG
 
 #################
 ###106-301-g-1.net.uwa.edu.au
 #################
-serial number OPM26071647
-serial number OPM260714P6
-serial number OPM260714P9
-serial number OPM260714P3
-serial number OPM260714PE
-serial number OPM260714PN
+TwentyFiveGigE1/0/4 OPM26071647
+TwentyFiveGigE1/0/3 OPM260714P6
+TwentyFiveGigE1/0/24 OPM260714P9
+TwentyFiveGigE1/0/2 OPM260714P3
+TwentyFiveGigE1/0/23 OPM260714PE
+TwentyFiveGigE1/0/1 OPM260714PN
 
 #################
 ###108-g03-a-1.net.uwa.edu.au
 #################
-serial number OPM260714TS
-serial number OPM260714N4
+TenGigabitEthernet2/1/4 OPM260714TS
+TenGigabitEthernet1/1/4 OPM260714N4
 
 #################
 ###131-g16c-a-1.net.uwa.edu.au
 #################
-serial number OPM260715KQ
-serial number AVD2004R18Z
+TenGigabitEthernet2/1/4 OPM260715KQ
+TenGigabitEthernet1/1/4 AVD2004R18Z
+
+#################
+###139-193-a-1.net.uwa.edu.au
+#################
+TenGigabitEthernet1/1/4 FNS28310HRA
+
+#################
+###139-193-a-2.net.uwa.edu.au
+#################
+TenGigabitEthernet1/1/4 FNS28310HRL
+
+#################
+###139-211-a-1.net.uwa.edu.au
+#################
+TenGigabitEthernet1/1/4 ACP26310YFR
+
+#################
+###139-211-a-2.net.uwa.edu.au
+#################
+TenGigabitEthernet1/1/4 ACP26310YFT
+
+#################
+###139-218c-a-1.net.uwa.edu.au
+#################
+TenGigabitEthernet1/1/8 FNS28310HAR
+
+#################
+###139-322-a-1.net.uwa.edu.au
+#################
+TenGigabitEthernet1/1/8 FNS28310H9R
+
+#################
+###139-406-a-1.net.uwa.edu.au
+#################
+TenGigabitEthernet1/1/4 ACP26310Y4G
+
+#################
+###139-g08-a-1.net.uwa.edu.au
+#################
+TenGigabitEthernet1/1/1 FNS17501DPZ
+TenGigabitEthernet1/1/4 ACP26310YG6
+
+#################
+###139-g08-a-2.net.uwa.edu.au
+#################
+TenGigabitEthernet1/1/4 ACP26310YFN
+
+#################
+###139-g08-g-1.net.uwa.edu.au
+#################
+TwentyFiveGigE1/0/10 FNS28310HRX
+TwentyFiveGigE1/0/9 ACP2631103U
+TwentyFiveGigE1/0/8 FNS28310HAC
+TwentyFiveGigE1/0/23 ACP2631108E
+TwentyFiveGigE1/0/6 ACP26310Y4E
+TwentyFiveGigE1/0/4 ACP2631107Q
+TwentyFiveGigE1/0/7 FNS28310HAE
+TwentyFiveGigE1/0/1 ACP2631108Q
+TwentyFiveGigE1/0/3 ACP2631108L
+TwentyFiveGigE1/0/24 ACP26310YGA
+TwentyFiveGigE1/0/2 ACP26311082
+
+#################
+###139-g51-e-1.net.uwa.edu.au
+#################
+GigabitEthernet1/1/4 OPM224500U0
+
+#################
+###142-g07a-a-1.net.uwa.edu.au
+#################
+TenGigabitEthernet1/1/4 ACW26280GFW
+
+#################
+###142-g07a-a-2.net.uwa.edu.au
+#################
+TenGigabitEthernet1/1/4 ACW26271MTW
 
 #################
 ###142-g07a-g-1.net.uwa.edu.au
 #################
-serial number ACW26271MRR
-serial number ACW26271MRV
-serial number ACW26280GFW
-serial number ACW26280GEP
-serial number ACW26280GEX
+TwentyFiveGigE1/0/24 ACW26271MRR
+TwentyFiveGigE1/0/23 ACW26271MRV
+TwentyFiveGigE1/0/1 ACW26280GEX
+TwentyFiveGigE1/0/2 ACW26280GEP
+TwentyFiveGigE1/0/3 ACW26271MTG
+
+#################
+###142-g15a-a-1.net.uwa.edu.au
+#################
+TenGigabitEthernet1/1/4 ACW26271MRU
 
 #################
 ###143-g37-a-1.net.uwa.edu.au
 #################
-serial number ACW25501V9Z
-serial number ACW25501VA2
+TenGigabitEthernet2/1/4 ACW25501V9Z
+TenGigabitEthernet1/1/4 ACW25501VA2
 
 #################
 ###144-201-a-1.net.uwa.edu.au
 #################
-serial number OPM260714Y4
-serial number OPM260714XA
+TenGigabitEthernet1/1/3 OPM260714Y4
+TenGigabitEthernet1/1/4 OPM260714XA
 
 #################
 ###190-b30-a-1.net.uwa.edu.au
 #################
-serial number OPM26150FM3
-serial number OPM26150FLR
+TenGigabitEthernet2/1/4 OPM26150FM3
+TenGigabitEthernet1/1/4 OPM26150FLR
 
 #################
 ###210-g88-a-1.net.uwa.edu.au
 #################
-serial number OPM260714TT
-serial number OPM260714U5
+TenGigabitEthernet1/1/3 OPM260714TT
+TenGigabitEthernet1/1/4 OPM260714U5
 
 #################
 ###211-1100-a-1.net.uwa.edu.au
 #################
-serial number OPM260714XS
+TenGigabitEthernet1/1/4 OPM260714XS
 
 #################
 ###211-1100-g-1.net.uwa.edu.au
 #################
-serial number OPM2607163K
-serial number OPM260714PS
-serial number OPM26071JRX
-serial number OPM2607163L
-serial number OPM26071JRU
-serial number OPM260714Y6
-serial number OPM26071JRT
-serial number OPM2607163P
-serial number OPM260714PF
-serial number OPM2607163M
-serial number OPM2607163N
-serial number OPM26071JRS
+TwentyFiveGigE1/0/24 OPM2607163K
+TwentyFiveGigE1/0/6 OPM260714PS
+TwentyFiveGigE1/0/7 OPM26071JRX
+TwentyFiveGigE1/0/23 OPM2607163L
+TwentyFiveGigE1/0/10 OPM26071JRU
+TwentyFiveGigE1/0/5 OPM260714Y6
+TwentyFiveGigE1/0/8 OPM26071JRT
+TwentyFiveGigE1/0/2 OPM2607163P
+TwentyFiveGigE1/0/4 OPM260714PF
+TwentyFiveGigE1/0/3 OPM2607163M
+TwentyFiveGigE1/0/1 OPM2607163N
+TwentyFiveGigE1/0/9 OPM26071JRS
 
 #################
 ###211-1113-a-1.net.uwa.edu.au
 #################
-serial number OPM26071JP8
+TenGigabitEthernet1/1/4 OPM26071JP8
 
 #################
 ###211-2100-a-1.net.uwa.edu.au
 #################
-serial number OPM26071JPE
+TenGigabitEthernet1/1/4 OPM26071JPE
 
 #################
 ###211-2113-a-1.net.uwa.edu.au
 #################
-serial number OPM26071JPB
+TenGigabitEthernet1/1/4 OPM26071JPB
 
 #################
 ###211-3100-a-1.net.uwa.edu.au
 #################
-serial number OPM26071JTY
+TenGigabitEthernet1/1/4 OPM26071JTY
 
 #################
 ###211-3112-a-1.net.uwa.edu.au
 #################
-serial number OPM26071JPA
+TenGigabitEthernet1/1/4 OPM26071JPA
 
 #################
 ###211-4100-a-1.net.uwa.edu.au
 #################
-serial number OPM26071JTX
+TenGigabitEthernet1/1/4 OPM26071JTX
 
 #################
 ###211-4113-a-1.net.uwa.edu.au
 #################
-serial number OPM26071JP9
+TenGigabitEthernet1/1/4 OPM26071JP9
 
 #################
 ###211-g100-a-1.net.uwa.edu.au
 #################
-serial number OPM26071JRR
+TenGigabitEthernet1/1/4 OPM26071JRR
 
 #################
 ###211-g113-a-1.net.uwa.edu.au
 #################
-serial number OPM2607166Q
+TenGigabitEthernet1/1/4 OPM2607166Q
 
 #################
 ###222-187-a-1.net.uwa.edu.au
 #################
-serial number AVD2238K0PH
+TenGigabitEthernet1/1/8 AVD2238K0PH
 
 #################
 ###222-187-a-2.net.uwa.edu.au
 #################
-serial number AVD2238K0PA
+TenGigabitEthernet1/1/8 AVD2238K0PA
 
 #################
 ###222-187-g-1.net.uwa.edu.au
 #################
-serial number ACW251224AB
-serial number ACW251224ER
-serial number ACW25122497
-serial number ACW251224J1
+TwentyFiveGigE1/0/1 ACW251224AB
+TwentyFiveGigE1/0/2 ACW251224ER
+TwentyFiveGigE1/0/24 ACW25122497
+TwentyFiveGigE1/0/23 ACW251224J1
 
 #################
 ###223-197-a-1.net.uwa.edu.au
 #################
-serial number OPM260713QX
-serial number OPM260713QS
+TenGigabitEthernet2/1/4 OPM260713QX
+TenGigabitEthernet1/1/4 OPM260713QS
 
 #################
 ###223-224a-a-1.net.uwa.edu.au
 #################
-serial number OPM2607165N
+TenGigabitEthernet1/1/4 OPM2607165N
 
 #################
 ###223-224a-a-2.net.uwa.edu.au
 #################
-serial number OPM2607165Q
+TenGigabitEthernet1/1/4 OPM2607165Q
 
 #################
 ###223-224a-g-1.net.uwa.edu.au
 #################
-serial number OPM260713R0
-serial number OPM2607165S
-serial number OPM260713PN
-serial number OPM2607165P
-serial number OPM2607165R
+TwentyFiveGigE1/0/24 OPM260713R0
+TwentyFiveGigE1/0/1 OPM2607165S
+TwentyFiveGigE1/0/3 OPM260713PN
+TwentyFiveGigE1/0/23 OPM2607165P
+TwentyFiveGigE1/0/2 OPM2607165R
 
 #################
 ###223-g33a-a-1.net.uwa.edu.au
 #################
-serial number OPM260713R6
-serial number OPM260713R3
+TenGigabitEthernet1/1/2 MTC15160AK6
+TenGigabitEthernet1/1/4 OPM260713R6
+TenGigabitEthernet1/1/1 AGM155224UE
+TenGigabitEthernet1/1/3 OPM260713R3
 
 #################
 ###223-g48-a-1.net.uwa.edu.au
 #################
-serial number OPM260713S1
+TenGigabitEthernet1/1/4 OPM260713S1
+
+#################
+###224-1148-a-1.net.uwa.edu.au
+#################
+TenGigabitEthernet1/1/4 ACP2631103F
+
+#################
+###224-204-a-1.net.uwa.edu.au
+#################
+TenGigabitEthernet1/1/4 ACW26271MUJ
+
+#################
+###224-g154-a-1.net.uwa.edu.au
+#################
+TenGigabitEthernet1/1/4 ACP26311039
+
+#################
+###224-g15-a-1.net.uwa.edu.au
+#################
+TenGigabitEthernet1/1/4 ACP26311033
+
+#################
+###224-g15-a-2.net.uwa.edu.au
+#################
+TenGigabitEthernet1/1/4 ACP2631103T
+
+#################
+###224-g15-g-1.net.uwa.edu.au
+#################
+TwentyFiveGigE1/0/6 ACP2631102V
+TwentyFiveGigE1/0/5 ACP2631103J
+TwentyFiveGigE1/0/4 ACP26311030
+TwentyFiveGigE1/0/2 ACP2631103H
+TwentyFiveGigE1/0/24 ACP26311040
+TwentyFiveGigE1/0/3 ACP2631104W
+TwentyFiveGigE1/0/7 ACP2631103R
+TwentyFiveGigE1/0/1 ACP2631103W
+TwentyFiveGigE1/0/23 ACP26311038
+
+#################
+###224-g160a-a-1.net.uwa.edu.au
+#################
+TenGigabitEthernet1/1/4 ACP26311050
+
+#################
+###224-g167b-a-1.net.uwa.edu.au
+#################
+TenGigabitEthernet1/1/4 ACW26271MU5
 
 #################
 ###225-162-a-1.net.uwa.edu.au
 #################
-serial number ACW26281TMA
+TenGigabitEthernet1/1/4 ACW26281TMA
 
 #################
 ###225-162-g-1.net.uwa.edu.au
 #################
-serial number ACW26281TNE
-serial number ACW26281TN8
-serial number ACW26271MT7
-serial number ACW26281TMS
-serial number ACW26281TME
+TwentyFiveGigE1/0/3 ACW26281TNE
+TwentyFiveGigE1/0/2 ACW26281TN8
+TwentyFiveGigE1/0/23 ACW26271MT7
+TwentyFiveGigE1/0/1 ACW26281TMS
+TwentyFiveGigE1/0/24 ACW26281TME
 
 #################
 ###225-201-a-1.net.uwa.edu.au
 #################
-serial number ACW26271MTN
+TenGigabitEthernet1/1/4 ACW26271MTN
 
 #################
 ###225-b12a-a-1.net.uwa.edu.au
 #################
-serial number ACW26271MTT
+TenGigabitEthernet1/1/4 ACW26271MTT
 
 #################
 ###226-163-a-1.net.uwa.edu.au
 #################
-serial number OPM26070NLE
+TenGigabitEthernet1/1/4 OPM26070NLE
 
 #################
 ###226-163-g-1.net.uwa.edu.au
 #################
-serial number OPM26071JRZ
-serial number OPM26071JS1
-serial number OPM26071JS0
-serial number OPM26071JS4
+TwentyFiveGigE1/0/1 OPM26071JRZ
+TwentyFiveGigE1/0/24 OPM26071JS1
+TwentyFiveGigE1/0/23 OPM26071JS0
+TwentyFiveGigE1/0/2 OPM26071JS4
 
 #################
 ###226-275-a-1.net.uwa.edu.au
 #################
-serial number OPM26070NPG
+TenGigabitEthernet1/1/4 OPM26070NPG
 
 #################
 ###227-g61-a-1.net.uwa.edu.au
 #################
-serial number ACW26280GFU
-serial number OPM260714XM
+TenGigabitEthernet2/1/4 ACW26280GFU
+TenGigabitEthernet1/1/4 OPM260714XM
 
 #################
 ###235-g06f-a-1.net.uwa.edu.au
 #################
-serial number OPM260713Q4
-serial number OPM260713Q1
+TenGigabitEthernet2/1/4 OPM260713Q4
+TenGigabitEthernet1/1/4 OPM260713Q1
+
+#################
+###238-134-a-1.net.uwa.edu.au
+#################
+TenGigabitEthernet1/1/4 ACP26310YGC
 
 #################
 ###238-134-g-1.net.uwa.edu.au
 #################
-serial number FNS17282TC6
-serial number AGM191642RT
-serial number FNS17400C7V
+TwentyFiveGigE1/0/5 ACP26311048
+TwentyFiveGigE1/0/24 FNS17282TC6
+TwentyFiveGigE1/0/4 ACP2631104E
+TwentyFiveGigE1/0/2 ACP26310YFS
+TwentyFiveGigE1/0/3 ACP26310YFQ
+TwentyFiveGigE1/0/23 FNS17400C7V
 
 #################
-###238-g02-a-1.net.uwa.edu.au
+###238-204d-a-1.net.uwa.edu.au
 #################
-serial number MTC173103A3
+TenGigabitEthernet1/1/4 ACP2631104N
+
+#################
+###238-g02-a-2.net.uwa.edu.au
+#################
+TenGigabitEthernet1/1/4 ACP2631104S
+
+#################
+###238-g14-a-1.net.uwa.edu.au
+#################
+TenGigabitEthernet1/1/4 ACP26310YFV
 
 #################
 ###241-104-a-1.net.uwa.edu.au
 #################
-serial number ACW2512240T
-serial number ACW251223Z3
+TenGigabitEthernet2/1/4 ACW2512240T
+TenGigabitEthernet1/1/4 ACW251223Z3
 
 #################
 ###242-g01-a-1.net.uwa.edu.au
 #################
-serial number OPM260713PJ
-serial number OPM260713PA
+TenGigabitEthernet1/1/4 OPM260713PJ
+TenGigabitEthernet2/1/4 OPM260713PA
 
 #################
 ###245-1136-a-1.net.uwa.edu.au
 #################
-serial number OPM260714PM
+TenGigabitEthernet1/1/4 OPM260714PM
 
 #################
 ###245-1139-a-1.net.uwa.edu.au
 #################
-serial number OPM260714PL
+TenGigabitEthernet1/1/4 OPM260714PL
 
 #################
 ###245-233-a-1.net.uwa.edu.au
 #################
-serial number OPM26071JTK
+TenGigabitEthernet1/1/4 OPM26071JTK
 
 #################
 ###245-233-g-1.net.uwa.edu.au
 #################
-serial number OPM26071669
-serial number OPM2607166F
-serial number OPM260714XY
-serial number OPM260714YB
-serial number OPM260714PJ
-serial number OPM260714PQ
-serial number OPM260714P1
-serial number OPM2607166B
-serial number OPM2607166H
-serial number OPM2607166J
-serial number OPM260714NY
+TwentyFiveGigE1/0/23 OPM26071669
+TwentyFiveGigE1/0/2 OPM2607166F
+TwentyFiveGigE1/0/9 OPM260714XY
+TwentyFiveGigE1/0/3 OPM260714YB
+TwentyFiveGigE1/0/7 OPM260714PJ
+TwentyFiveGigE1/0/8 OPM260714PQ
+TwentyFiveGigE1/0/6 OPM260714P1
+TwentyFiveGigE1/0/24 OPM2607166B
+TwentyFiveGigE1/0/1 OPM2607166H
+TwentyFiveGigE1/0/4 OPM2607166J
+TwentyFiveGigE1/0/5 OPM260714NY
 
 #################
 ###245-313-a-1.net.uwa.edu.au
 #################
-serial number OPM260714P7
+TenGigabitEthernet1/1/4 OPM260714P7
 
 #################
 ###245-496-a-1.net.uwa.edu.au
 #################
-serial number OPM260714Y5
+TenGigabitEthernet1/1/4 OPM260714Y5
 
 #################
 ###245-b47-a-1.net.uwa.edu.au
 #################
-serial number OPM260714PH
+TenGigabitEthernet1/1/4 OPM260714PH
 
 #################
 ###245-b90-a-1.net.uwa.edu.au
 #################
-serial number OPM260714P4
+TenGigabitEthernet1/1/4 OPM260714P4
 
 #################
 ###245-dem-a-1.net.uwa.edu.au
 #################
-serial number OPM260714TA
+TenGigabitEthernet1/1/4 OPM260714TA
 
 #################
 ###245-g02-a-1.net.uwa.edu.au
 #################
-serial number OPM260714XE
+TenGigabitEthernet1/1/4 OPM260714XE
+
+#################
+###248-g40-a-1.net.uwa.edu.au
+#################
+TenGigabitEthernet1/1/4 00000MTC08340646
 
 #################
 ###248-g41-a-1.net.uwa.edu.au
 #################
-serial number FNS173210B1
+TenGigabitEthernet1/1/2 OPM2337032S
+TenGigabitEthernet1/1/4 FNS173210B1
 
 #################
 ###248-g41-a-2.net.uwa.edu.au
 #################
-serial number AGD1611V0SU
+TenGigabitEthernet1/1/1 MTC161608D4
+TenGigabitEthernet1/1/4 AGD1611V0SU
 
 #################
 ###248-test-a-1.net.uwa.edu.au
 #################
-serial number AVD2125KENB
+TenGigabitEthernet1/1/1 ACP2631106B
+TenGigabitEthernet1/1/4 AVD2125KENB
+TenGigabitEthernet1/1/3 OPM2337031F
+
+#################
+###248-test-e-1.net.uwa.edu.au
+#################
 
 #################
 ###248-test-g-1.net.uwa.edu.au
 #################
-serial number OPM26070NLN
-serial number OPT20340190
+TwentyFiveGigE1/0/24 OPM26070NLN
+TwentyFiveGigE1/0/1 OPT20340190
 
 #################
 ###272-g16a-a-1.net.uwa.edu.au
 #################
-serial number OPM2607166P
-serial number OPM2607166T
+TenGigabitEthernet1/1/4 OPM2607166P
+TenGigabitEthernet2/1/4 OPM2607166T
 
 #################
 ###274-g27-a-1.net.uwa.edu.au
 #################
-serial number OPM26071655
-serial number OPM2607165A
+TenGigabitEthernet1/1/3 OPM26071655
+TenGigabitEthernet1/1/4 OPM2607165A
 
 #################
 ###275-g86-a-1.net.uwa.edu.au
 #################
-serial number OPM230905MG
+TenGigabitEthernet1/1/8 OPM230905MG
 
 #################
 ###275-g86-a-2.net.uwa.edu.au
 #################
-serial number OPM230905YH
+TenGigabitEthernet1/1/8 OPM230905YH
 
 #################
 ###275-g86-a-3.net.uwa.edu.au
 #################
-serial number ACW251224CN
+TenGigabitEthernet1/1/4 ACW251224CN
+
+#################
+###275-g86-a-4.net.uwa.edu.au
+#################
+TenGigabitEthernet1/1/4 FNS28310HAJ
 
 #################
 ###275-g86-g-1.net.uwa.edu.au
 #################
-serial number FNS17300THP
-serial number ACW251224JT
-serial number ACW2512244X
-serial number ACW251223WK
-serial number ACW25122487
+TwentyFiveGigE1/0/2 FNS17300THP
+TwentyFiveGigE1/0/23 ACW251224JT
+TwentyFiveGigE1/0/3 ACW2512244X
+TwentyFiveGigE1/0/24 ACW251223WK
+TwentyFiveGigE1/0/1 ACW25122487
+TwentyFiveGigE1/0/4 FNS28310HQC
 
 #################
 ###329-113-a-1.net.uwa.edu.au
 #################
-serial number OPM260713SJ
+TenGigabitEthernet1/1/4 OPM260713SJ
 
 #################
 ###329-113-g-1.net.uwa.edu.au
 #################
-serial number OPM260715L5
-serial number OPM260715KY
-serial number OPM260713S8
-serial number OPM260713S0
-serial number OPM260713SF
-serial number OPM260715KP
+TwentyFiveGigE1/0/3 OPM260715L5
+TwentyFiveGigE1/0/24 OPM260715KY
+TwentyFiveGigE1/0/1 OPM260713S8
+TwentyFiveGigE1/0/4 OPM260713S0
+TwentyFiveGigE1/0/2 OPM260713SF
+TwentyFiveGigE1/0/23 OPM260715KP
 
 #################
 ###329-155-a-1.net.uwa.edu.au
 #################
-serial number OPM260713QY
+TenGigabitEthernet1/1/4 OPM260713QY
 
 #################
 ###329-192-a-1.net.uwa.edu.au
 #################
-serial number OPM260713R1
+TenGigabitEthernet1/1/4 OPM260713R1
 
 #################
 ###329-226-a-1.net.uwa.edu.au
 #################
-serial number OPM260713R4
+TenGigabitEthernet1/1/4 OPM260713R4
 
 #################
 ###330-184a-a-1.net.uwa.edu.au
 #################
-serial number ECL144601LE
-serial number FNS2227041Z
+TenGigabitEthernet1/1/4 ECL144601LE
+TenGigabitEthernet1/1/3 FNS2227041Z
 
 #################
 ###338-173-a-1.net.uwa.edu.au
 #################
-serial number OPM26071JRY
+TenGigabitEthernet1/1/4 OPM26071JRY
+TenGigabitEthernet2/1/4 ACW2628157U
 
 #################
 ###338-211-a-1.net.uwa.edu.au
 #################
-serial number OPM26071659
+TenGigabitEthernet1/1/4 OPM26071659
 
 #################
 ###338-211-g-1.net.uwa.edu.au
 #################
-serial number OPM260714U2
-serial number OPM260713S2
-serial number OPM260713PF
-serial number OPM260713NX
+TwentyFiveGigE1/0/24 OPM260714U2
+TwentyFiveGigE1/0/23 OPM260713S2
+TwentyFiveGigE1/0/2 OPM260713PF
+TwentyFiveGigE1/0/1 OPM260713NX
 
 #################
 ###338-g77-a-1.net.uwa.edu.au
 #################
-serial number OPM260713S4
+TenGigabitEthernet1/1/4 OPM260713S4
+
+#################
+###344-1117-a-1.net.uwa.edu.au
+#################
+TenGigabitEthernet1/1/4 ACP263115PZ
+
+#################
+###344-2111-a-1.net.uwa.edu.au
+#################
+TenGigabitEthernet1/1/4 ACP263115Q0
+
+#################
+###344-2111-a-2.net.uwa.edu.au
+#################
+TenGigabitEthernet1/1/4 ACP263115PF
+
+#################
+###344-2111-g-1.net.uwa.edu.au
+#################
+TwentyFiveGigE1/0/1 ACP26311061
+TwentyFiveGigE1/0/24 ACP26311063
+TwentyFiveGigE1/0/3 ACP2631105N
+TwentyFiveGigE1/0/4 ACP263115PP
+TwentyFiveGigE1/0/2 ACP2631105B
+TwentyFiveGigE1/0/23 ACP2631106A
+
+#################
+###344-g03-a-1.net.uwa.edu.au
+#################
+TenGigabitEthernet1/1/4 ACP263115T1
 
 #################
 ###345-197-a-1.net.uwa.edu.au
 #################
-serial number ACW2512244N
+TenGigabitEthernet1/1/4 ACW2512244N
 
 #################
 ###345-210-a-1.net.uwa.edu.au
 #################
-serial number ACW2512244S
+TenGigabitEthernet1/1/4 ACW2512244S
 
 #################
 ###345-g01c-a-1.net.uwa.edu.au
 #################
-serial number ACW25501VAT
+TenGigabitEthernet1/1/4 ACW25501VAT
 
 #################
 ###345-g01c-g-1.net.uwa.edu.au
 #################
-serial number ACW25122464
-serial number ACW251223Y0
-serial number ACW25501VB7
-serial number ACW25501VB1
-serial number ACW25501VB3
+TwentyFiveGigE1/0/23 ACW25122464
+TwentyFiveGigE1/0/24 ACW251223Y0
+TwentyFiveGigE1/0/3 ACW25501VB7
+TwentyFiveGigE1/0/1 ACW25501VB1
+TwentyFiveGigE1/0/2 ACW25501VB3
 
 #################
 ###346-215a-a-1.net.uwa.edu.au
 #################
-serial number FNS244108R4
-serial number ACW2512241H
+TenGigabitEthernet2/1/4 ACW2512241H
+TenGigabitEthernet1/1/4 FNS244108R4
 
 #################
 ###347-234-a-1.net.uwa.edu.au
 #################
-serial number OPM2607163T
+TenGigabitEthernet1/1/4 OPM2607163T
 
 #################
 ###347-g14-a-1.net.uwa.edu.au
 #################
-serial number OPM26070NLJ
+TenGigabitEthernet1/1/4 OPM26070NLJ
 
 #################
 ###347-g14-g-1.net.uwa.edu.au
 #################
-serial number OPM260713P3
-serial number OPM260713P6
-serial number OPM260713P0
-serial number OPM2607163R
+TwentyFiveGigE1/0/23 OPM260713P3
+TwentyFiveGigE1/0/24 OPM260713P6
+TwentyFiveGigE1/0/1 OPM260713P0
+TwentyFiveGigE1/0/3 OPM2607163R
+
+#################
+###348-225-a-1.net.uwa.edu.au
+#################
+TenGigabitEthernet2/1/8 FNS283001VV
+TenGigabitEthernet1/1/8 FNS283001V9
 
 #################
 ###349-101-a-1.net.uwa.edu.au
 #################
-serial number OPM260715K9
-serial number OPM260715KN
+TenGigabitEthernet1/1/3 OPM260715K9
+TenGigabitEthernet1/1/4 OPM260715KN
 
 #################
 ###351-192a-a-1.net.uwa.edu.au
 #################
-serial number AVD2041K04M
+TenGigabitEthernet1/1/4 AVD2041K04M
 
 #################
 ###351-293-a-1.net.uwa.edu.au
 #################
-serial number FNS2441044E
+TenGigabitEthernet1/1/4 FNS2441044E
 
 #################
 ###351-g91-a-1.net.uwa.edu.au
 #################
-serial number FNS24410456
+TenGigabitEthernet1/1/4 FNS24410456
 
 #################
 ###351-g91-g-1.net.uwa.edu.au
 #################
-serial number FNS244108RD
-serial number FNS244108SA
-serial number AVD2041K1L7
-serial number FNS244108S9
-serial number FNS24410439
+TenGigabitEthernet1/0/16 FNS244108RD
+TenGigabitEthernet1/0/1 FNS244108SA
+TenGigabitEthernet1/0/15 AVD2041K1L7
+TenGigabitEthernet1/0/3 FNS244108S9
+TenGigabitEthernet1/0/2 FNS24410439
 
 #################
 ###352-218-a-1.net.uwa.edu.au
 #################
-serial number OPM260715K7
+TenGigabitEthernet1/1/4 OPM260715K7
 
 #################
 ###352-218-a-2.net.uwa.edu.au
 #################
-serial number OPM26071JTS
+TenGigabitEthernet1/1/4 OPM26071JTS
 
 #################
 ###352-218-g-1.net.uwa.edu.au
 #################
-serial number OPM260715K6
-serial number OPM260714U3
-serial number OPM260714T9
-serial number OPM260714U0
+TwentyFiveGigE1/0/2 OPM260715K6
+TwentyFiveGigE1/0/24 OPM260714U3
+TwentyFiveGigE1/0/1 OPM260714T9
+TwentyFiveGigE1/0/23 OPM260714U0
 
 #################
 ###352-2205-a-1.net.uwa.edu.au
 #################
-serial number OPM260715KF
+TenGigabitEthernet1/1/4 OPM260715KF
 
 #################
 ###352-2205-a-2.net.uwa.edu.au
 #################
-serial number OPM260715KB
+TenGigabitEthernet1/1/4 OPM260715KB
 
 #################
 ###352-2205-g-1.net.uwa.edu.au
 #################
-serial number OPM2607166A
-serial number OPM26071668
-serial number OPM260715KE
-serial number OPM26071667
+TwentyFiveGigE1/0/24 OPM2607166A
+TwentyFiveGigE1/0/23 OPM26071668
+TwentyFiveGigE1/0/2 OPM260715KE
+TwentyFiveGigE1/0/1 OPM26071667
 
 #################
 ###401-2001a-a-1.net.uwa.edu.au
 #################
-serial number ACW26271MTE
-serial number ACW26271MUL
+TenGigabitEthernet1/1/4 ACW26271MTE
+TenGigabitEthernet2/1/4 ACW26271MUL
+
+#################
+###402-3201b-a-1.net.uwa.edu.au
+#################
+TenGigabitEthernet1/1/4 ACP263115U3
+
+#################
+###402-3201b-a-2.net.uwa.edu.au
+#################
+TenGigabitEthernet1/1/4 ACP263115QB
+
+#################
+###402-3201b-g-1.net.uwa.edu.au
+#################
+TwentyFiveGigE1/0/1 ACP263115TC
+TwentyFiveGigE1/0/2 ACP263115T3
+TwentyFiveGigE1/0/23 ACP263115Q1
+TwentyFiveGigE1/0/24 ACP263115PK
+
+#################
+###405-g104-a-1.net.uwa.edu.au
+#################
+TenGigabitEthernet1/1/4 ACP2631152H
+
+#################
+###405-g104-a-2.net.uwa.edu.au
+#################
+TenGigabitEthernet1/1/4 ACP2631152N
+
+#################
+###405-g104-g-1.net.uwa.edu.au
+#################
+TwentyFiveGigE1/0/24 ACP2631152E
+TwentyFiveGigE1/0/23 ACP2631152U
+TwentyFiveGigE1/0/2 ACP2631152K
+TwentyFiveGigE1/0/1 ACP2631152F
+
+#################
+###409-115-a-1.net.uwa.edu.au
+#################
+TenGigabitEthernet1/1/4 ACW26271MUC
+
+#################
+###409-115-a-2.net.uwa.edu.au
+#################
+TenGigabitEthernet1/1/4 ACW26271MRZ
+
+#################
+###409-115-g-1.net.uwa.edu.au
+#################
+TwentyFiveGigE1/0/23 ACW26271MUK
+TwentyFiveGigE1/0/1 ACW26271MTK
+TwentyFiveGigE1/0/24 ACW26271MU6
+TwentyFiveGigE1/0/2 ACW26271MU3
 
 #################
 ###410-g11-a-1.net.uwa.edu.au
 #################
-serial number ACW26281TMH
-serial number ACW26281TN0
+TenGigabitEthernet1/1/4 ACW26281TMH
+TenGigabitEthernet2/1/4 ACW26281TN0
+
+#################
+###413-g40-a-1.net.uwa.edu.au
+#################
+TenGigabitEthernet1/1/4 ACP2631105V
+TenGigabitEthernet1/1/3 ACP2631105W
+
+#################
+###416-g70-a-1.net.uwa.edu.au
+#################
+TenGigabitEthernet1/1/4 ACP2631152G
+TenGigabitEthernet2/1/4 ACP2631152T
+
+#################
+###420-g07-a-1.net.uwa.edu.au
+#################
+TenGigabitEthernet1/1/4 ACP26311049
+
+#################
+###420-g07-a-2.net.uwa.edu.au
+#################
+TenGigabitEthernet1/1/4 ACP263115Q5
+
+#################
+###420-g07-g-1.net.uwa.edu.au
+#################
+TwentyFiveGigE1/0/2 ACP263115PH
+TwentyFiveGigE1/0/1 ACP263115PV
+TwentyFiveGigE1/0/23 ACP263115PS
+TwentyFiveGigE1/0/24 ACP263115PM
+
+#################
+###420-g80-a-1.net.uwa.edu.au
+#################
+TenGigabitEthernet1/1/3 ACP2631152R
+TenGigabitEthernet1/1/4 ACP2631152S
+
+#################
+###427-102-a-1.net.uwa.edu.au
+#################
+TenGigabitEthernet1/1/3 ACP2631152B
+TenGigabitEthernet1/1/4 ACP2631152L
+
+#################
+###432-g30a-a-1.net.uwa.edu.au
+#################
+TenGigabitEthernet1/1/3 ACP26310Y4J
+TenGigabitEthernet1/1/4 ACP26310Y49
+
+#################
+###440-g05-a-1.net.uwa.edu.au
+#################
+TenGigabitEthernet1/1/4 ACW2628156Y
+TenGigabitEthernet1/1/3 ACW2628157Q
 
 #################
 ###441-1187-a-1.net.uwa.edu.au
 #################
-serial number FNS2227041N
-serial number ACW25501VAG
+TenGigabitEthernet1/1/1 FNS2227041N
+TenGigabitEthernet1/1/4 ACW25501VAG
 
 #################
 ###441-1187-a-3.net.uwa.edu.au
 #################
-serial number ACW251224GE
+TenGigabitEthernet1/1/4 ACW251224GE
 
 #################
 ###441-1187-a-4.net.uwa.edu.au
 #################
-serial number ACW205314GR
-serial number AVJ204038LW
-serial number JPC21440238-B
-serial number OPM21200NTQ
-serial number ACW205314FY
-serial number FNS151609HV
-serial number ACW205314GX
-serial number AGC1526UR3P
-serial number ACW20520SX6
-serial number ACW20510NT9
-serial number ACW205314G9
-serial number ACW205314GA
-serial number ACW205314GZ
-serial number ACW205314GU
-serial number FNS15150XMX
-serial number ACW205314GQ
-serial number ACW20520MVJ
-serial number ACW20531A2J
-serial number OPM21200NTS
-serial number AVJ204038LV
-serial number AVJ204035NA
-serial number OPM21230G95
-serial number AVJ204037F9
-serial number ACW205314FX
+HundredGigE1/0/28 JPC21440238-B
 
 #################
 ###441-1187-a-5.net.uwa.edu.au
 #################
-serial number AVJ204038ND
-serial number ACW205319W5
-serial number ACW20531A34
-serial number JPC2144023A-B
-serial number AVJ20403AAY
-serial number FNS15150Z7S
-serial number ACW205312EW
-serial number ACW205313D7
-serial number OPM21230GAA
-serial number ACW205312EH
-serial number ACW20520HMR
-serial number AVJ20403ABN
-serial number FNS19341WAH
-serial number ACW205312FG
-serial number AGT1123U1AV
-serial number ACW205314GC
-serial number AVJ20403A4Z
-serial number FNS111602CE
-serial number OPM20330L04
-serial number AVJ204038LL
-serial number ACW205314G5
-serial number AVJ204039RT
-serial number AVJ20403A5F
-serial number FNS15150Z3V
-serial number ACW203807G1
+HundredGigE1/0/28 JPC2144023A-B
 
 #################
 ###441-1187-a-6.net.uwa.edu.au
 #################
-serial number ACW205313D8
-serial number ACW205312EU
-serial number ACW205313CS
-serial number FNS1833078A
-serial number ACW203807EZ
-serial number FNS151609FA
-serial number ACW20520SLR
-serial number ACW205314GB
-serial number ACW20520STH
-serial number ACW205314H0
-serial number ACW203809XP
-serial number FNS115003001
-serial number ACW203806UV
-serial number AVJ204039SC
-serial number ACW205314GS
-serial number FNS15150ZC2
-serial number FNS15150XMQ
-serial number ACW205312EX
-serial number FNS115003152
-serial number ACW20350EJP
-serial number ACW205314G7
-serial number JPC21440236-B
-serial number AVJ20403ABJ
-serial number ACW205312EM
-serial number ACW20380A99
+HundredGigE1/0/28 JPC21440236-B
+
+#################
+###441-1187-a-7.net.uwa.edu.au
+#################
+TwentyFiveGigE2/0/13 AVJ20403AAY
+TwentyFiveGigE1/0/6 ACW205314G9
+TwentyFiveGigE3/0/12 ACW20520STH
+TwentyFiveGigE1/0/23 ACW20531A2J
+TwentyFiveGigE1/0/1 FNS151609HV
+TwentyFiveGigE2/0/5 ACW205312EH
+TwentyFiveGigE3/0/2 AVJ20403ABJ
+TwentyFiveGigE3/0/4 ACW205314GS
+TwentyFiveGigE2/0/6 ACW20520HMR
+TwentyFiveGigE2/0/4 FNS111602CE
+TwentyFiveGigE2/0/24 FNS15150Z7S
+TwentyFiveGigE3/0/13 AVJ204039SC
+TwentyFiveGigE1/0/22 ACW205314FX
+TwentyFiveGigE2/0/22 AVJ204039RT
+TwentyFiveGigE2/0/20 ACW205314G5
+TwentyFiveGigE3/0/9 ACW20520SLR
+TwentyFiveGigE2/0/11 AVJ20403A4Z
+TwentyFiveGigE2/0/19 AVJ20403ABN
+TwentyFiveGigE3/0/6 ACW20350EJP
+TwentyFiveGigE2/0/1 FNS19341WAH
+TwentyFiveGigE2/0/12 ACW205319W5
+TwentyFiveGigE1/0/14 ACW20510NT9
+TwentyFiveGigE2/0/14 AVJ204038ND
+TwentyFiveGigE2/0/2 ACW205312FG
+TwentyFiveGigE1/0/9 ACW20520MVJ
+TwentyFiveGigE2/0/16 ACW203807G1
+TwentyFiveGigE3/0/24 FNS151609FA
+TwentyFiveGigE1/0/4 ACW205314GX
+TwentyFiveGigE1/0/15 ACW205314GA
+TwentyFiveGigE3/0/21 FNS115003152
+TwentyFiveGigE1/0/17 AVJ204038LW
+TwentyFiveGigE3/0/3 ACW203809XP
+TwentyFiveGigE2/0/21 ACW205312EW
+HundredGigE1/1/4 ACW25211EGP
+TwentyFiveGigE1/0/16 OPM21230G95
+TwentyFiveGigE3/0/11 ACW205312EU
+TwentyFiveGigE3/0/15 ACW205312EM
+TwentyFiveGigE1/0/11 ACW205314GZ
+TwentyFiveGigE1/0/2 FNS15150XMX
+TwentyFiveGigE2/0/10 ACW20531A34
+TwentyFiveGigE3/0/7 ACW205313CS
+TwentyFiveGigE2/0/3 AGT1123U1AV
+TwentyFiveGigE1/0/3 ACW205314GU
+TwentyFiveGigE3/0/1 ACW205312EX
+TwentyFiveGigE2/0/18 AVJ204038LL
+TwentyFiveGigE3/0/8 ACW203807EZ
+TwentyFiveGigE1/0/8 AVJ204037F9
+TwentyFiveGigE1/0/19 OPM21200NTQ
+TwentyFiveGigE3/0/5 ACW203806UV
+TwentyFiveGigE1/0/18 ACW205314GR
+TwentyFiveGigE1/0/5 AVJ204035NA
+TwentyFiveGigE1/0/12 ACW20520SX6
+TwentyFiveGigE3/0/14 ACW205314G7
+TwentyFiveGigE1/0/20 OPM21200NTS
+TwentyFiveGigE2/0/9 ACW205314GC
+TwentyFiveGigE3/0/10 ACW205313D8
+TwentyFiveGigE2/0/8 ACW205313D7
+TwentyFiveGigE3/0/22 FNS115003001
+TwentyFiveGigE2/0/15 AVJ20403A5F
+TwentyFiveGigE3/0/23 FNS1833078A
+TwentyFiveGigE2/0/17 FNS15150Z3V
+TwentyFiveGigE1/0/24 ACW205314FY
+TwentyFiveGigE1/0/10 AGC1526UR3P
+TwentyFiveGigE3/0/19 ACW205314GB
+TwentyFiveGigE3/0/20 ACW20380A99
+TwentyFiveGigE3/0/16 ACW205314H0
+TwentyFiveGigE2/0/7 OPM20330L04
+TwentyFiveGigE1/0/13 ACW205314GQ
+TwentyFiveGigE3/0/17 FNS15150XMQ
+TwentyFiveGigE1/0/21 AVJ204038LV
+TwentyFiveGigE3/0/18 FNS15150ZC2
 
 #################
 ###441-1187-g-1.net.uwa.edu.au
 #################
-serial number ACW251224KF
-serial number JPC21440238-A
-serial number ACW25501V9Q
-serial number ACW2512240Y
-serial number FNS244101SB
-serial number ACW25501VAH
-serial number ACW25501WRK
-serial number ACW251223XP
-serial number JPC21440236-A
-serial number JPC2144023A-A
+TwentyFiveGigE1/0/5 ACW251224KF
+HundredGigE1/0/28 JPC21440238-A
+HundredGigE1/0/25 ACW25471CS8
+TwentyFiveGigE1/0/2 ACW25501V9Q
+TwentyFiveGigE1/0/4 ACW2512240Y
+TwentyFiveGigE1/0/23 FNS244101SB
+TwentyFiveGigE1/0/24 ACW25501VAH
+TwentyFiveGigE1/0/1 ACW25501WRK
+TwentyFiveGigE1/0/3 ACW251223XP
+HundredGigE1/0/26 JPC21440236-A
+HundredGigE1/0/27 JPC2144023A-A
 
 #################
 ###441-1190-a-1.net.uwa.edu.au
 #################
-serial number ACW25501V9Y
+TenGigabitEthernet1/1/4 ACW25501V9Y
 
 #################
 ###441-1190-a-2.net.uwa.edu.au
 #################
-serial number ACW25122431
+TenGigabitEthernet1/1/4 ACW25122431
 
 #################
 ###441-124-e-10.net.uwa.edu.au
 #################
-serial number ACW205312ET
+GigabitEthernet1/0/8 ACW205312ET
 
 #################
 ###441-124-e-1.net.uwa.edu.au
 #################
-serial number ACW205314GE
+GigabitEthernet1/0/8 ACW205314GE
 
 #################
 ###441-124-e-2.net.uwa.edu.au
 #################
-serial number ACW20531A2L
+GigabitEthernet1/0/8 ACW20531A2L
 
 #################
 ###441-124-e-3.net.uwa.edu.au
 #################
-serial number ACW205312ER
+GigabitEthernet1/0/8 ACW205312ER
 
 #################
 ###441-124-e-4.net.uwa.edu.au
 #################
-serial number ACW20531A2N
+GigabitEthernet1/0/8 ACW20531A2N
 
 #################
 ###441-124-e-5.net.uwa.edu.au
 #################
-serial number ACW205314GY
+GigabitEthernet1/0/8 ACW205314GY
 
 #################
 ###441-124-e-6.net.uwa.edu.au
 #################
-serial number ACW205314GV
+GigabitEthernet1/0/8 ACW205314GV
 
 #################
 ###441-124-e-7.net.uwa.edu.au
 #################
-serial number ACW205319VZ
+GigabitEthernet1/0/8 ACW205319VZ
 
 #################
 ###441-124-e-8.net.uwa.edu.au
 #################
-serial number ACW205312EK
+GigabitEthernet1/0/8 ACW205312EK
 
 #################
 ###441-124-e-9.net.uwa.edu.au
 #################
-serial number ACW205314G0
+GigabitEthernet1/0/8 ACW205314G0
 
 #################
 ###441-g04-e-1.net.uwa.edu.au
 #################
-serial number AVJ2040393H
+GigabitEthernet1/0/8 AVJ2040393H
 
 #################
 ###441-g04-e-2.net.uwa.edu.au
 #################
-serial number ACW2038076G
+GigabitEthernet1/0/8 1170614062
 
 #################
 ###441-g04-e-3.net.uwa.edu.au
 #################
-serial number ACW203807JC
+GigabitEthernet1/0/8 ACW203807JC
 
 #################
 ###441-g04-e-4.net.uwa.edu.au
 #################
-serial number AVJ204039RP
+GigabitEthernet1/0/8 AVJ204039RP
 
 #################
 ###441-g04-e-5.net.uwa.edu.au
 #################
-serial number ACW203809Y7
+GigabitEthernet1/0/8 ACW203809Y7
 
 #################
 ###441-g05-e-1.net.uwa.edu.au
 #################
-serial number ACW24431E2N
+TenGigabitEthernet1/0/2 ACW24431E2N
 
 #################
 ###441-g05-e-2.net.uwa.edu.au
 #################
-serial number ACW203807G9
+GigabitEthernet1/0/8 ACW203807G9
 
 #################
 ###441-g05-e-3.net.uwa.edu.au
 #################
-serial number ACW20380A91
+GigabitEthernet1/0/8 ACW20380A91
 
 #################
 ###441-G05-e-4.net.uwa.edu.au
 #################
-serial number ACW203809Y6
+GigabitEthernet1/0/8 ACW203809Y6
 
 #################
 ###441-g05-e-5.net.uwa.edu.au
 #################
-serial number ACW20360CCL
+GigabitEthernet1/0/8 ACW20360CCL
+
+#################
+###444-1140-a-1.net.uwa.edu.au
+#################
+TenGigabitEthernet1/1/4 ACP26310Y3Z
+
+#################
+###444-1140-g-1.net.uwa.edu.au
+#################
+TwentyFiveGigE1/0/2 ACP2631102Y
+TwentyFiveGigE1/0/24 ACP26311035
+TwentyFiveGigE1/0/1 ACP26311034
+TwentyFiveGigE1/0/4 ACP2631103K
+TwentyFiveGigE1/0/3 ACP26310Y3U
+TwentyFiveGigE1/0/23 OPM2608086A
+
+#################
+###444-1142-a-1.net.uwa.edu.au
+#################
+TenGigabitEthernet1/1/4 ACP26310Y4S
+
+#################
+###444-132-a-1.net.uwa.edu.au
+#################
+TenGigabitEthernet1/1/4 ACP2631103Z
+
+#################
+###444-g50-a-1.net.uwa.edu.au
+#################
+TenGigabitEthernet1/1/4 ACP26310Y4D
 
 #################
 ###446-193-a-1.net.uwa.edu.au
 #################
-serial number OPM26071JPF
+TenGigabitEthernet1/1/4 OPM26071JPF
 
 #################
 ###446-193-g-1.net.uwa.edu.au
 #################
-serial number OPM260714TH
-serial number OPM260714TP
-serial number OPM260714TL
-serial number OPM260714TB
-serial number OPM260714XU
-serial number OPM260714U1
+TwentyFiveGigE1/0/1 OPM260714TH
+TwentyFiveGigE1/0/23 OPM260714TP
+TwentyFiveGigE1/0/3 OPM260714TL
+TwentyFiveGigE1/0/24 OPM260714TB
+TwentyFiveGigE1/0/4 OPM260714XU
+TwentyFiveGigE1/0/2 OPM260714U1
 
 #################
 ###446-293-a-1.net.uwa.edu.au
 #################
-serial number OPM26071JPH
+TenGigabitEthernet1/1/4 OPM26071JPH
 
 #################
 ###446-348-a-1.net.uwa.edu.au
 #################
-serial number OPM26071JPG
+TenGigabitEthernet1/1/4 OPM26071JPG
+
+#################
+###446-g08-e-1.net.uwa.edu.au
+#################
+TenGigabitEthernet1/1/4 AVD2235K68Z
 
 #################
 ###446-g93-a-1.net.uwa.edu.au
 #################
-serial number OPM26071JPJ
+TenGigabitEthernet1/1/1 AVD2235K68T
+TenGigabitEthernet1/1/4 OPM26071JPJ
 
 #################
 ###449-g50-a-1.net.uwa.edu.au
 #################
-serial number ACW26271MUN
-serial number OPM26071645
+TenGigabitEthernet1/1/4 ACW26271MUN
+TenGigabitEthernet2/1/4 OPM26071645
 
 #################
 ###450-g11a-a-1.net.uwa.edu.au
 #################
-serial number OPM260714Y2
-serial number OPM26071JTE
+TenGigabitEthernet2/1/4 OPM26071JTE
+TenGigabitEthernet1/1/4 OPM260714Y2
+
+#################
+###4601-1101-a-1.net.uwa.edu.au
+#################
+TenGigabitEthernet1/1/4 ACP26311069
+
+#################
+###4601-1101-a-2.net.uwa.edu.au
+#################
+TenGigabitEthernet1/1/4 ACP2631105M
+
+#################
+###4601-g123-a-1.net.uwa.edu.au
+#################
+TenGigabitEthernet1/1/4 ACP2631105G
+
+#################
+###4601-g123-a-2.net.uwa.edu.au
+#################
+TenGigabitEthernet1/1/4 ACP263115SZ
+
+#################
+###4601-g123-g-1.net.uwa.edu.au
+#################
+TwentyFiveGigE1/0/4 ACP2631151W
+TwentyFiveGigE1/0/3 ACP26311523
+TwentyFiveGigE1/0/1 ACP2631105D
+TwentyFiveGigE1/0/24 ACP2631153C
+TwentyFiveGigE1/0/2 ACP2631105P
+TwentyFiveGigE1/0/23 ACP2631152Q
+
+#################
+###4716-g11-a-1.net.uwa.edu.au
+#################
+TenGigabitEthernet1/1/4 ACP2631104A
+TenGigabitEthernet1/1/3 ACP26310YFL
 
 #################
 ###499-101h-a-1.net.uwa.edu.au
 #################
-serial number OPM26070NL6
+TenGigabitEthernet1/1/4 OPM26070NL6
 
 #################
 ###499-101h-a-2.net.uwa.edu.au
 #################
-serial number OPM260715KU
+TenGigabitEthernet1/1/4 OPM260715KU
 
 #################
 ###499-101h-g-1.net.uwa.edu.au
 #################
-serial number OPM260715L2
-serial number OPM260715L4
-serial number OPM26070NL3
-serial number OPM260715L6
+TwentyFiveGigE1/0/24 OPM260715L2
+TwentyFiveGigE1/0/2 OPM260715L4
+TwentyFiveGigE1/0/1 OPM26070NL3
+TwentyFiveGigE1/0/23 OPM260715L6
+
+#################
+###500-2231-a-1.net.uwa.edu.au
+#################
+TenGigabitEthernet1/1/4 ACP26311037
+
+#################
+###500-2239-a-1.net.uwa.edu.au
+#################
+TenGigabitEthernet1/1/4 ACP2631103Y
+
+#################
+###500-2239-a-2.net.uwa.edu.au
+#################
+TenGigabitEthernet1/1/4 ACP2631102X
+
+#################
+###500-b02-a-1.net.uwa.edu.au
+#################
+TenGigabitEthernet1/1/4 FNS28310HQF
+
+#################
+###500-b02-a-2.net.uwa.edu.au
+#################
+TenGigabitEthernet1/1/4 FNS28310HQU
+
+#################
+###500-b02-g-1.net.uwa.edu.au
+#################
+TwentyFiveGigE1/0/2 FNS28310HQM
+TwentyFiveGigE1/0/24 ACP263115TY
+TwentyFiveGigE1/0/5 ACP2631103G
+TwentyFiveGigE1/0/23 ACP263115TZ
+TwentyFiveGigE1/0/4 ACP263115U2
+TwentyFiveGigE1/0/3 ACP2631102Z
+TwentyFiveGigE1/0/1 FNS28310HQL
 
 #################
 ###501-118-a-1.net.uwa.edu.au
 #################
-serial number OPM260714TG
-serial number OPM260714TK
+TenGigabitEthernet2/1/4 OPM260714TG
+TenGigabitEthernet1/1/4 OPM260714TK
+
+#################
+###502-102c-a-1.net.uwa.edu.au
+#################
+TenGigabitEthernet1/1/4 ACP263115PY
+
+#################
+###502-135a-a-1.net.uwa.edu.au
+#################
+TenGigabitEthernet1/1/4 ACP263115QL
+
+#################
+###502-g19a-a-1.net.uwa.edu.au
+#################
+TenGigabitEthernet1/1/4 FNS17282LFJ
+
+#################
+###502-g19a-a-2.net.uwa.edu.au
+#################
+TenGigabitEthernet1/1/4 ACP2631151D
+
+#################
+###502-g19a-g-1.net.uwa.edu.au
+#################
+TwentyFiveGigE1/0/4 ACP263115Q2
+TwentyFiveGigE1/0/1 ACP263115PL
+TwentyFiveGigE1/0/3 ACP2631105X
+TwentyFiveGigE1/0/24 ACP263115QD
+TwentyFiveGigE1/0/2 ACP263115PG
+TwentyFiveGigE1/0/5 FNS17282TDQ
+TwentyFiveGigE1/0/23 ACP263115PX
+
+#################
+###503-115-a-1.net.uwa.edu.au
+#################
+TenGigabitEthernet1/1/4 ACP26310Y4A
+TenGigabitEthernet2/1/4 ACP26310Y44
 
 #################
 ###507-g15-a-1.net.uwa.edu.au
 #################
-serial number OPM260714Y8
-serial number OPM260715KS
+TenGigabitEthernet2/1/4 OPM260714Y8
+TenGigabitEthernet1/1/4 OPM260715KS
+
+#################
+###511-g29-a-1.net.uwa.edu.au
+#################
+TenGigabitEthernet1/1/3 FNS18040VXR
+TenGigabitEthernet1/1/4 FNS2227043J
+
+#################
+###513-1072-a-1.net.uwa.edu.au
+#################
+TenGigabitEthernet1/1/3 FNS283001X6
+TenGigabitEthernet1/1/4 FNS283001VW
+
+#################
+###518-g89a-a-1.net.uwa.edu.au
+#################
+TenGigabitEthernet1/1/3 ACP263115U1
+TenGigabitEthernet1/1/4 ACP263115TB
 
 #################
 ###606-131-a-1.net.uwa.edu.au
 #################
-serial number OPM260714PR
-serial number OPM260714P8
+TenGigabitEthernet1/1/4 OPM260714PR
+TenGigabitEthernet1/1/3 OPM260714P8
+
+#################
+###607-106-a-1.net.uwa.edu.au
+#################
+TenGigabitEthernet1/1/3 ACP26310YG9
+TenGigabitEthernet1/1/4 FNS183307JU
+
+#################
+###653-101-a-1.net.uwa.edu.au
+#################
+TenGigabitEthernet1/1/3 FNS283001VZ
+TenGigabitEthernet1/1/4 FNS283001ME
 
 #################
 ###655-g04a-a-1.net.uwa.edu.au
 #################
-serial number OPM260714XG
-serial number OPM260714XT
+TenGigabitEthernet1/1/3 OPM260714XG
+TenGigabitEthernet1/1/4 OPM260714XT
+
+#################
+###656-g07-a-1.net.uwa.edu.au
+#################
+TenGigabitEthernet1/1/4 FNS283001W4
+TenGigabitEthernet1/1/3 FNS283001V5
+
+#################
+###657-g06-a-1.net.uwa.edu.au
+#################
+TenGigabitEthernet1/1/3 ACP26311522
+TenGigabitEthernet1/1/4 ACP26311514
 
 #################
 ###658-1120c-a-1.net.uwa.edu.au
 #################
-serial number OPM260715KT
+TenGigabitEthernet1/1/4 OPM260715KT
 
 #################
 ###658-155-a-3.net.uwa.edu.au
 #################
-serial number ACW25501V9U
+TenGigabitEthernet1/1/4 ACW25501V9U
 
 #################
 ###658-214-a-1.net.uwa.edu.au
 #################
-serial number AVD2302K4EK
+TenGigabitEthernet1/1/4 AVD2302K4EK
 
 #################
 ###658-240-a-3.net.uwa.edu.au
 #################
-serial number OPM26071658
+TenGigabitEthernet1/1/4 OPM26071658
 
 #################
 ###658-b105-a-1.net.uwa.edu.au
 #################
-serial number ACW25501VAJ
+TenGigabitEthernet1/1/4 ACW25501VAJ
 
 #################
 ###658-b105-g-2.net.uwa.edu.au
 #################
-serial number ACW25501VAM
-serial number ACW25501VAA
-serial number ACW25501VAC
-serial number FNS17300THW
-serial number ACW25501VBB
-serial number ACW25501VAS
-serial number ACW25501V9X
-serial number ACW25501VBA
-serial number ACW25501VBL
+TwentyFiveGigE1/0/4 ACW25501VAM
+TwentyFiveGigE1/0/6 ACW25501VAA
+TwentyFiveGigE1/0/7 ACW25501VAC
+TwentyFiveGigE1/0/24 FNS17300THW
+TwentyFiveGigE1/0/1 ACW25501VBB
+TwentyFiveGigE1/0/2 ACW25501VAS
+TwentyFiveGigE1/0/5 ACW25501V9X
+TwentyFiveGigE1/0/23 ACW25501VBA
+TwentyFiveGigE1/0/3 ACW25501VBL
 
 #################
 ###658-g121a-a-3.net.uwa.edu.au
 #################
-serial number ACW25501V9E
+TenGigabitEthernet1/1/4 ACW25501V9E
 
 #################
 ###658-g47-a-3.net.uwa.edu.au
 #################
-serial number ACW25501VA6
+TenGigabitEthernet1/1/4 ACW25501VA6
 
 #################
 ###661-111-a-1.net.uwa.edu.au
 #################
-serial number OPM260713SA
+TenGigabitEthernet1/1/4 OPM260713SA
 
 #################
 ###661-111-g-1.net.uwa.edu.au
 #################
-serial number OPM230905N1
-serial number OPM230905MZ
-serial number OPM260714XB
-serial number OPM260714XN
+TwentyFiveGigE1/0/2 OPM230905N1
+TwentyFiveGigE1/0/1 OPM230905MZ
+TwentyFiveGigE1/0/24 OPM260714XB
+TwentyFiveGigE1/0/23 OPM260714XN
 
 #################
 ###661-g09-a-1.net.uwa.edu.au
 #################
-serial number OPM230905N0
+TenGigabitEthernet1/1/4 OPM230905N0
 
 #################
 ###671-g09-a-1.net.uwa.edu.au
 #################
-serial number OPM260713PY
-serial number OPM260714TF
+TenGigabitEthernet1/1/3 OPM260713PY
+TenGigabitEthernet1/1/4 OPM260714TF
 
 #################
 ###673-101a-a-1.net.uwa.edu.au
 #################
-serial number ACW243813H6
+TenGigabitEthernet1/1/4 ACW243813H6
 
 #################
 ###673-b85-a-1.net.uwa.edu.au
 #################
-serial number ACW243813HH
-serial number ACW24492KJ2
-serial number ACW243813GM
+TenGigabitEthernet1/1/1 ACW243813HH
+TenGigabitEthernet2/1/4 ACW24492KJ2
+TenGigabitEthernet1/1/4 ACW243813GM
 
 #################
 ###681-207a-a-1.net.uwa.edu.au
 #################
-serial number ACW26281TND
+TenGigabitEthernet1/1/4 ACW26281TND
 
 #################
 ###681-207a-a-2.net.uwa.edu.au
 #################
-serial number ACW26281TNJ
+TenGigabitEthernet1/1/4 ACW26281TNJ
 
 #################
 ###681-207a-g-1.net.uwa.edu.au
 #################
-serial number ACW26271MT2
-serial number ACW26271MTD
-serial number ACW26271MTJ
-serial number ACW26271MTS
+TwentyFiveGigE1/0/1 ACW26271MT2
+TwentyFiveGigE1/0/2 ACW26271MTD
+TwentyFiveGigE1/0/24 ACW26271MTJ
+TwentyFiveGigE1/0/23 ACW26271MTS
 
 #################
 ###682-171-a-1.net.uwa.edu.au
 #################
-serial number OPM260715KR
+TenGigabitEthernet1/1/4 OPM260715KR
 
 #################
 ###682-271-a-1.net.uwa.edu.au
 #################
-serial number OPM260715KM
+TenGigabitEthernet1/1/4 OPM260715KM
 
 #################
 ###682-b71-a-1.net.uwa.edu.au
 #################
-serial number OPM260715KZ
+TenGigabitEthernet1/1/4 OPM260715KZ
 
 #################
 ###682-b71-g-1.net.uwa.edu.au
 #################
-serial number FNS244101UP
-serial number OPM260715L0
-serial number OPM2607165G
-serial number FNS24410905
-serial number FNS244108S5
+TwentyFiveGigE1/0/24 FNS244101UP
+TwentyFiveGigE1/0/1 OPM260715L0
+TwentyFiveGigE1/0/2 OPM2607165G
+TwentyFiveGigE1/0/23 FNS24410905
+TwentyFiveGigE1/0/3 FNS244108S5
+
+#################
+###683-g13-a-1.net.uwa.edu.au
+#################
+TenGigabitEthernet2/1/4 ACW251223YV
+TenGigabitEthernet1/1/4 OPT20340197
 
 #################
 ###684-g15-a-1.net.uwa.edu.au
 #################
-serial number OPM26071JTZ
-serial number OPM26071JTR
+TenGigabitEthernet2/1/4 OPM26071JTZ
+TenGigabitEthernet1/1/4 OPM26071JTR
 
 #################
 ###685-g03a-a-1.net.uwa.edu.au
 #################
-serial number ACW26280GEZ
-serial number ACW26280GE8
+TenGigabitEthernet1/1/4 ACW26280GEZ
+TenGigabitEthernet1/1/3 ACW26280GE8
+
+#################
+###686-g06a-a-1.net.uwa.edu.au
+#################
+TenGigabitEthernet1/1/3 ACW26280GEN
+TenGigabitEthernet1/1/4 ACW26280GFF
+
+#################
+###687-125-a-1.net.uwa.edu.au
+#################
+TenGigabitEthernet1/1/4 ACP2631152C
+
+#################
+###687-g22-a-1.net.uwa.edu.au
+#################
+TenGigabitEthernet1/1/4 ACP2631152A
+
+#################
+###687-g22-g-1.net.uwa.edu.au
+#################
+TwentyFiveGigE1/0/23 ACP2631105R
+TwentyFiveGigE1/0/1 ACP2631152D
+TwentyFiveGigE1/0/2 ACP26311537
+TwentyFiveGigE1/0/24 ACP263115T8
+
+#################
+###689-g51-a-1.net.uwa.edu.au
+#################
+TenGigabitEthernet1/1/4 ACP263115TQ
+TenGigabitEthernet2/1/4 ACP263115T0
+
+#################
+###710-206-a-1.net.uwa.edu.au
+#################
+TenGigabitEthernet2/1/4 ACP26310YG3
+TenGigabitEthernet1/1/4 ACP26310YGB
+
+#################
+###711-1002-a-1.net.uwa.edu.au
+#################
+TenGigabitEthernet1/1/4 ACP26310YG4
+TenGigabitEthernet2/1/4 ACP26310YG7
+
+#################
+###713-g01-a-1.net.uwa.edu.au
+#################
+TenGigabitEthernet1/1/4 ACP2631103L
+TenGigabitEthernet1/1/3 ACP2631103S
+
+#################
+###851-g18-a-1.net.uwa.edu.au
+#################
+TenGigabitEthernet1/1/4 FNS28310HQP
+
+#################
+###851-g18-a-2.net.uwa.edu.au
+#################
+TenGigabitEthernet1/1/4 FNS283001WG
+
+#################
+###851-g18-g-1.net.uwa.edu.au
+#################
+TwentyFiveGigE1/0/1 FNS283001V2
+TwentyFiveGigE1/0/24 FNS28310HQQ
+TwentyFiveGigE1/0/23 FNS28310HRV
+TwentyFiveGigE1/0/2 FNS28310HQ4
+
+#################
+###852-g47-a-1.net.uwa.edu.au
+#################
+TenGigabitEthernet2/1/4 ACP2631103P
+TenGigabitEthernet1/1/4 ACP2631103B
+
+#################
+###855-g06-a-1.net.uwa.edu.au
+#################
+TenGigabitEthernet1/1/4 FNS283001VC
+
+#################
+###857-g02-a-1.net.uwa.edu.au
+#################
+TenGigabitEthernet1/1/3 FNS28310HSA
+TenGigabitEthernet1/1/4 FNS28310HRP
+
+#################
+###858-g02a-a-1.net.uwa.edu.au
+#################
+TenGigabitEthernet1/1/4 FNS28310HS8
+TenGigabitEthernet1/1/3 FNS28310HS1
+
+#################
+###861-g04-a-1.net.uwa.edu.au
+#################
+TenGigabitEthernet1/1/3 FNS2830008J
+TenGigabitEthernet1/1/4 FNS283000AZ
+
+#################
+###863-g02b-a-1.net.uwa.edu.au
+#################
+TenGigabitEthernet1/1/4 FNS28310HS3
+TenGigabitEthernet1/1/3 FNS283001V8
+
+#################
+###albany-br-01.net.uwa.edu.au
+#################
+TwentyFiveGigE1/0/7 ACP26310YG5
+TwentyFiveGigE1/0/8 ACP26310YFW
+TwentyFiveGigE1/0/5 ACP26310YGD
+TwentyFiveGigE1/0/24 OPM21240HN2
+TwentyFiveGigE1/0/2 ACP26310YGG
+TwentyFiveGigE1/0/4 ACP2631103D
+TwentyFiveGigE1/0/1 ACP26311036
+TwentyFiveGigE1/0/6 ACP2631104P
+TwentyFiveGigE1/0/3 ACP2631103C
+
+#################
+###claremont-dr-04.net.uwa.edu.au
+#################
+TwentyFiveGigE2/0/7 FNS28300083
+TwentyFiveGigE1/0/47 ACP2631104X
+TwentyFiveGigE1/0/4 FNS17282L6Y
+HundredGigE2/0/49 LCC2817GNL8-A
+TwentyFiveGigE1/0/3 FNS28310HR8
+TwentyFiveGigE2/0/4 FNS283001VP
+TwentyFiveGigE1/0/5 FNS28310HQR
+TwentyFiveGigE2/0/46 FNS283001VQ
+TwentyFiveGigE1/0/2 FNS28310HQ8
+TwentyFiveGigE2/0/48 ACP2631104Z
+HundredGigE2/0/50 LCC2817GNJ7-A
+TwentyFiveGigE1/0/48 ACP26311041
+TwentyFiveGigE1/0/7 FNS2830009C
+HundredGigE1/0/52 FBN2823B00T
+HundredGigE1/0/49 LCC2817GNL8-B
+TwentyFiveGigE2/0/5 FNS2830008V
+HundredGigE2/0/52 FBN2823B061
+TwentyFiveGigE1/0/6 FNS283001VB
+TwentyFiveGigE2/0/1 ACP2631103Q
+TwentyFiveGigE1/0/1 ACP2631103N
+TwentyFiveGigE1/0/46 FNS283001VG
+TwentyFiveGigE2/0/2 FNS283001WL
+TwentyFiveGigE2/0/47 ACP2631104F
+TwentyFiveGigE2/0/3 FNS283001WB
+TwentyFiveGigE2/0/6 FNS283001VK
+HundredGigE1/0/50 LCC2817GNJ7-B
 
 #################
 ###fairway-dr-04.net.uwa.edu.au
 #################
-serial number ACW2521008W
-serial number AVM2505U2DZ
-serial number OPM2607165F
-serial number FNS244101R5
-serial number ACW26281TMC
-serial number OPM2607165B
-serial number AVM2505U2EG
-serial number OPM26071JQ3
-serial number OPM260714NZ
-serial number FNS244101LD
-serial number AVM2505U2E0
-serial number ACW252018LK
-serial number OPM260714TM
-serial number FNS2441046Q
-serial number FNS244101UJ
-serial number OPM260714XQ
-serial number OPM260714XR
-serial number OPM26071JTQ
-serial number FNS24410907
-serial number OPM260714XJ
-serial number ACW26280GET
-serial number OPM260714P2
-serial number FNS17320NAJ
-serial number OPM260714XZ
-serial number ACW26281TMR
-serial number ACW26280GEJ
-serial number OPM260714TJ
-serial number ACW243813HA
-serial number AVM2505U2DY
-serial number FNS244101ML
+TwentyFiveGigE2/0/12 ACW26280GFR
+TwentyFiveGigE2/0/5 OPM260714XR
+TwentyFiveGigE2/0/13 ACP263115TE
+TwentyFiveGigE1/0/9 ACW26280GEJ
+TwentyFiveGigE1/0/17 FNS283001X4
+TwentyFiveGigE2/0/2 FNS244101R5
+TwentyFiveGigE1/0/1 OPM2607165B
+TwentyFiveGigE2/0/15 ACP26311051
+TwentyFiveGigE1/0/18 FNS283001VE
+TwentyFiveGigE2/0/6 OPM26071JTQ
+HundredGigE1/0/49 AVM2505U2EG
+TwentyFiveGigE2/0/48 FNS244101UJ
+TwentyFiveGigE2/0/7 OPM260714P2
+TwentyFiveGigE2/0/8 OPM260714XJ
+TwentyFiveGigE2/0/17 FNS283001VM
+TwentyFiveGigE2/0/18 FNS283001VS
+TwentyFiveGigE2/0/1 FNS2441046Q
+TwentyFiveGigE2/0/16 ACP2631151T
+TwentyFiveGigE2/0/9 ACW26280GET
+TwentyFiveGigE1/0/11 ECL153701XH
+HundredGigE2/0/52 FBN2740B08A
+TwentyFiveGigE2/0/47 FNS244101LD
+TwentyFiveGigE1/0/47 FNS24410907
+TwentyFiveGigE1/0/7 OPM260714NZ
+TwentyFiveGigE1/0/10 ACW26281TMC
+TwentyFiveGigE1/0/6 OPM26071JQ3
+TwentyFiveGigE2/0/4 OPM260714TM
+TwentyFiveGigE1/0/8 OPM260714XQ
+TwentyFiveGigE1/0/14 ACP263115TS
+TwentyFiveGigE1/0/12 ACW26280GES
+HundredGigE2/0/50 AVM2505U2DZ
+TwentyFiveGigE2/0/14 ACP263115TT
+TwentyFiveGigE1/0/2 FNS17320NAJ
+TwentyFiveGigE2/0/3 OPM2607165F
+TwentyFiveGigE2/0/11 FNS17282TCB
+TwentyFiveGigE1/0/16 ACP2631151C
+TwentyFiveGigE2/0/10 ACW26281TMR
+TwentyFiveGigE1/0/3 ACW243813HA
+TwentyFiveGigE1/0/5 OPM260714XZ
+TwentyFiveGigE1/0/4 OPM260714TJ
+HundredGigE2/0/49 AVM2505U2E0
+TwentyFiveGigE1/0/15 SPC170302UT
+HundredGigE1/0/50 AVM2505U2DY
+TwentyFiveGigE1/0/48 FNS244101ML
+HundredGigE1/0/52 FBN2734A0QP
+TwentyFiveGigE1/0/13 ACP263115TV
 
 #################
 ###physics-br-02.net.uwa.edu.au
 #################
-serial number ACW25211E8H
-serial number ACW25211EGN
-serial number ACW25211EHG
-serial number ACW25211EM1
-serial number ACW25211E8L
-serial number ACW25211EH2
+HundredGigE1/0/39 FBN2740B0HH
+FortyGigabitEthernet1/0/32 ACW25211EM1
+HundredGigE1/0/40 FBN2740B08U
+FortyGigabitEthernet1/0/31 ACW25211E8L
+HundredGigE1/0/38 FBN2741B01P
+HundredGigE1/0/37 FBN2740B0HJ
 
 #################
 ###physics-cr-02.net.uwa.edu.au
 #################
-serial number ACW25211EH0
-serial number ACW25211E8N
-serial number ACW252018LJ
-serial number ACW25211EH5
-serial number ACW25211ELV
-serial number ACW25211EHC
-serial number ACW25211E8M
-serial number ACW25211EHA
+HundredGigE1/0/40 FBN2740B08G
+HundredGigE1/0/37 FBN2740B0HK
+HundredGigE1/0/38 FBN2740B08J
+HundredGigE1/0/41 FBN2732A1TM
+HundredGigE1/0/39 FBN2740B0GS
+HundredGigE1/0/42 FBN2740B08R
+HundredGigE1/0/46 FBN2823B05R
+HundredGigE1/0/45 FBN2823B07C
+HundredGigE1/0/43 FBN2734A0HB
+HundredGigE1/0/44 FBN2740B0EN
 
 #################
 ###physics-dr-04.net.uwa.edu.au
 #################
-serial number OPM260713RA
-serial number OPM260713QM
-serial number OPM26071656
-serial number ACW26271MSF
-serial number OPM260714PK
-serial number OPM260713RZ
-serial number AVF2147U1JV
-serial number AVF2147U2LF
-serial number OPM260713QJ
-serial number OPM260713RN
-serial number ACW26271MUG
-serial number OPM260714PT
-serial number FNS17030YY0
-serial number OPM2607166E
-serial number OPM260713PT
-serial number OPM2607163X
-serial number ACW25501V9W
-serial number OPM260714XX
-serial number OPM2607163Q
-serial number ACW26280GEU
-serial number OPM260713QQ
-serial number AVD2249K8BJ
-serial number ACW25211EN7
-serial number OPM26071JU3
-serial number ACW251224DQ
-serial number OPM26070NL9
-serial number FNS244108SU
-serial number ACW25501VBN
-serial number OPM260713PM
-serial number OPM2607166R
-serial number OPM22350RLJ
-serial number OPM2607163Z
-serial number ACW25122425
-serial number ACW25122479
-serial number ACW25501VBQ
-serial number OPM260714TX
-serial number ACW25211E8G
-serial number OPM26071666
-serial number ACW26271MUP
-serial number OPM26150FM9
-serial number OPM260714TU
-serial number OPM26071JU2
-serial number OPM260713S3
-serial number OPM260713RY
-serial number OPM260713QF
-serial number ACW25501V9V
-serial number ACW26271MUA
-serial number OPM260713PQ
-serial number ACW251223ZL
-serial number OPM260714U6
-serial number ACW2512241W
-serial number ACW26271MTZ
-serial number OPM26071657
-serial number OPM26150FLS
-serial number AVF2147U1KM
-serial number ACW25501VAF
-serial number ACW2512241K
-serial number OPM260714PB
-serial number ACW25501V9M
-serial number AVF2147U2JJ
-serial number ACW2512247A
-serial number OPM26071665
-serial number OPM260714P5
-serial number OPM26071JTL
-serial number OPM260715KH
-serial number ACW25122453
-serial number OPM260714U4
-serial number OPM260715KA
+TwentyFiveGigE2/0/17 ACW2628156P
+TwentyFiveGigE2/0/11 OPM260713QM
+TwentyFiveGigE2/0/15 OPM26071656
+TwentyFiveGigE1/0/14 OPM260713RZ
+TwentyFiveGigE2/0/21 OPM260714TX
+TwentyFiveGigE1/0/24 OPM260714PB
+TwentyFiveGigE2/0/10 OPM260713QJ
+TwentyFiveGigE2/0/12 ACW26271MUG
+HundredGigE1/0/49 AVF2147U1JV
+TwentyFiveGigE2/0/1 FNS17030YY0
+TwentyFiveGigE2/0/28 OPM2607166E
+HundredGigE1/0/52 FBN2734A0MS
+TwentyFiveGigE1/0/2 OPM22350RLJ
+TwentyFiveGigE1/0/27 OPM260714TU
+TwentyFiveGigE1/0/33 ACW26280GF1
+TwentyFiveGigE1/0/6 ACW25501VAF
+TwentyFiveGigE1/0/31 ACW26280GEU
+TwentyFiveGigE2/0/22 OPM26071JU2
+TwentyFiveGigE1/0/20 OPM26071657
+TwentyFiveGigE1/0/4 ACW25501V9W
+TwentyFiveGigE1/0/35 ACP2631151G
+TwentyFiveGigE2/0/29 OPM260714PT
+TwentyFiveGigE1/0/47 ACW25122453
+TwentyFiveGigE1/0/29 OPM260714XX
+TwentyFiveGigE2/0/24 OPM260714PK
+TwentyFiveGigE2/0/25 OPM26071JTL
+TwentyFiveGigE2/0/27 OPM260714U6
+TwentyFiveGigE1/0/3 FNS244108SU
+TwentyFiveGigE2/0/13 OPM260713PM
+TwentyFiveGigE1/0/22 OPM26071JU3
+TwentyFiveGigE2/0/26 OPM26071665
+TwentyFiveGigE2/0/7 OPM2607163Z
+TwentyFiveGigE1/0/5 ACW25501VBN
+TwentyFiveGigE2/0/47 ACW25122479
+TwentyFiveGigE2/0/23 OPM26150FLS
+TwentyFiveGigE1/0/9 OPM260715KA
+TwentyFiveGigE2/0/3 ACW25501VBQ
+HundredGigE2/0/52 FBN2740B08E
+TwentyFiveGigE1/0/18 ACW26271MUP
+TwentyFiveGigE2/0/30 ACW26271MTZ
+TwentyFiveGigE1/0/32 ACP2631103X
+TwentyFiveGigE2/0/32 ACP2631103E
+TwentyFiveGigE1/0/43 AVD2249K8BJ
+TwentyFiveGigE1/0/16 OPM260713PT
+TwentyFiveGigE1/0/15 OPM2607163X
+TwentyFiveGigE2/0/34 ACP26310Y3X
+TwentyFiveGigE2/0/14 OPM260713S3
+TwentyFiveGigE2/0/8 OPM260713RY
+TwentyFiveGigE2/0/9 OPM260713QF
+TwentyFiveGigE2/0/2 ACW25501V9V
+TwentyFiveGigE1/0/10 OPM2607163Q
+TwentyFiveGigE1/0/26 OPM26071666
+TwentyFiveGigE2/0/48 ACW251223ZL
+TwentyFiveGigE1/0/48 ACW251224DQ
+TwentyFiveGigE1/0/23 OPM26150FM9
+TwentyFiveGigE1/0/30 ACW26271MUA
+TwentyFiveGigE2/0/5 ACW2512241W
+TwentyFiveGigE1/0/8 ACW2512247A
+HundredGigE2/0/49 AVF2147U1KM
+TwentyFiveGigE2/0/6 ACW2512241K
+TwentyFiveGigE2/0/4 ACW25501V9M
+TwentyFiveGigE2/0/31 ACW26271MSF
+TwentyFiveGigE1/0/21 OPM260714U4
+TwentyFiveGigE1/0/12 OPM260713RA
+HundredGigE2/0/50 AVF2147U2JJ
+TwentyFiveGigE1/0/13 OPM26070NL9
+TwentyFiveGigE1/0/19 OPM260713PQ
+TwentyFiveGigE1/0/28 OPM2607166R
+TwentyFiveGigE2/0/35 ACP26311513
+TwentyFiveGigE1/0/34 ACP26310Y4Q
+TwentyFiveGigE1/0/7 ACW25122425
+TwentyFiveGigE1/0/25 OPM260714P5
+TwentyFiveGigE1/0/17 OPM260713QQ
+TwentyFiveGigE2/0/16 OPM260715KH
+TwentyFiveGigE2/0/33 ACW2628156X
+HundredGigE1/0/50 AVF2147U2LF
+TwentyFiveGigE1/0/11 OPM260713RN
 
 #################
 ###qe2-dr-04.net.uwa.edu.au
 #################
-serial number AVM2505U2DF
-serial number ACW2512240B
-serial number OPM260714TN
-serial number ACW251224CF
-serial number ACW2512245D
-serial number ACW25211E8F
-serial number OPM260715KX
-serial number OPM260714TE
-serial number ACW251224AJ
-serial number ACW25211EH9
-serial number AVM2505U2D9
-serial number OPM260714S5
-serial number AVM2505U2D0
-serial number AVM2505U2D3
-serial number OPM260714TR
-serial number OPM260715L7
+TwentyFiveGigE2/0/5 ACP263115PU
+HundredGigE1/0/50 AVM2505U2D9
+HundredGigE1/0/52 FBN2740B0ED
+HundredGigE1/0/49 AVM2505U2DF
+TwentyFiveGigE2/0/48 ACW2512240B
+TwentyFiveGigE1/0/7 FNS22270K7W
+HundredGigE2/0/52 FBN2740B0EJ
+TwentyFiveGigE2/0/2 OPM260714TN
+TwentyFiveGigE1/0/48 ACW251224CF
+TwentyFiveGigE2/0/7 FNS1730050C
+TwentyFiveGigE2/0/4 ACP26310Y4U
+TwentyFiveGigE2/0/47 ACW2512245D
+TwentyFiveGigE1/0/9 FNS283001WZ
+TwentyFiveGigE2/0/6 ACP263115TM
+TwentyFiveGigE2/0/9 FNS283001VT
+TwentyFiveGigE1/0/1 OPM260715KX
+TwentyFiveGigE2/0/3 OPM260714TE
+TwentyFiveGigE1/0/6 ACP26310Y4F
+TwentyFiveGigE2/0/8 ACP263115TU
+TwentyFiveGigE1/0/5 ACP263115PT
+TwentyFiveGigE1/0/47 ACW251224AJ
+TwentyFiveGigE1/0/3 OPM260714S5
+HundredGigE2/0/49 AVM2505U2D0
+HundredGigE2/0/50 AVM2505U2D3
+TwentyFiveGigE1/0/8 ACP263115TX
+TwentyFiveGigE1/0/4 ACP26310Y4M
+TwentyFiveGigE1/0/2 OPM260714TR
+TwentyFiveGigE2/0/1 OPM260715L7
 
 #################
 ###reid-br-02.net.uwa.edu.au
 #################
-serial number ACW2521008U
-serial number ACW25211EGQ
-serial number ACW25211EGY
-serial number ACW25211EGZ
-serial number ACW25211ELS
-serial number ACW25211ELU
+HundredGigE1/0/37 FBN2740B0EQ
+HundredGigE1/0/39 FBN2741B01A
+HundredGigE1/0/38 FBN2740B0GU
+FortyGigabitEthernet1/0/32 ACW25211ELS
+FortyGigabitEthernet1/0/31 ACW25211ELU
+HundredGigE1/0/40 FBN2740B0GZ
 
 #################
 ###reid-cr-02.net.uwa.edu.au
 #################
-serial number ACW25470J45
-serial number ACW25211EGW
-serial number ACW25471CVT
-serial number ACW25211EH3
-serial number ACW25211E8K
-serial number ACW25211EGV
-serial number ACW25211EGU
-serial number ACW25470J4G
+HundredGigE1/0/37 FBN2740B0HA
+HundredGigE1/0/44 FBN2741B04T
+HundredGigE1/0/45 FBN2823B01F
+HundredGigE1/0/38 FBN2741B02W
+HundredGigE1/0/41 FBN2740B08S
+HundredGigE1/0/43 FBN2741B00R
+HundredGigE1/0/40 FBN2740B0AK
+HundredGigE1/0/46 FBN2823B06C
+HundredGigE1/0/39 FBN2740B0GY
+HundredGigE1/0/42 FBN2741B023
 
 #################
 ###science-dr-04.net.uwa.edu.au
 #################
-serial number ACW25501VB5
-serial number FNS19150F3P
-serial number ACW251224KS
-serial number OPM22491AQ6
-serial number AVM2452U189
-serial number ACW26281TNF
-serial number ACW26281TMG
-serial number ACW25501VAD
-serial number SPC164706DN
-serial number OPM260714TQ
-serial number AVM2452U186
-serial number AVM2452U184
-serial number ACW25501VAY
-serial number OPM26071JPM
-serial number OPM260713QT
-serial number ACW25501VQR
-serial number ACW25211ELN
-serial number ACW25501VRJ
-serial number OPM260714TY
-serial number FNS244108X7
-serial number OPM260713R7
-serial number ACW2521008L
-serial number OPM260714T8
-serial number FNS17300UUP
-serial number ACW26271MTM
-serial number ACW25501VAV
-serial number OPM260714X8
-serial number OPM26071JTN
-serial number OPM26071640
-serial number AVM2452U18A
-serial number OPM260713RR
-serial number FNS17400C74
-serial number OPM260713RK
-serial number OPM260714NX
-serial number ACW26271MT5
-serial number ACW26281TML
-serial number SPC164706UC
-serial number OPM260713Q7
-serial number FNS2441090Q
-serial number OPM260713QA
-serial number FNS17282L7W
-serial number ECL144600ZZ
-serial number OPM260714PP
-serial number FNS244108XS
+TwentyFiveGigE1/0/27 ACP26311059
+TwentyFiveGigE2/0/30 FNS283001X1
+TwentyFiveGigE1/0/13 ACW26281TML
+TwentyFiveGigE2/0/20 ACP26310Y40
+TwentyFiveGigE2/0/21 ACP26310Y3W
+TwentyFiveGigE1/0/22 ACP26311067
+TwentyFiveGigE2/0/3 ACW251224KS
+TwentyFiveGigE1/0/28 ACP26311538
+TwentyFiveGigE2/0/17 OPM22491AQ6
+TwentyFiveGigE2/0/25 ACP2631105A
+HundredGigE2/0/50 AVM2452U189
+TwentyFiveGigE2/0/14 ACW26281TNF
+TwentyFiveGigE1/0/3 ACW25501VB5
+TwentyFiveGigE1/0/12 OPM260714PP
+TwentyFiveGigE1/0/29 ACP263115QJ
+HundredGigE2/0/49 AVM2452U186
+TwentyFiveGigE2/0/18 ACW26281TNV
+TwentyFiveGigE1/0/6 ECL144600ZZ
+TwentyFiveGigE1/0/20 ACP26310Y45
+TwentyFiveGigE2/0/48 ACW25501VAY
+TwentyFiveGigE2/0/10 OPM26071JPM
+TwentyFiveGigE2/0/29 ACP2631151P
+HundredGigE1/0/49 AVM2452U18A
+TwentyFiveGigE1/0/18 ACW26271MSY
+TwentyFiveGigE1/0/21 ACP26310Y4L
+TwentyFiveGigE2/0/27 ACP2631105E
+TwentyFiveGigE1/0/5 OPM260714TQ
+TwentyFiveGigE1/0/17 FNS19150F3P
+TwentyFiveGigE2/0/22 ACP2631105T
+TwentyFiveGigE1/0/2 ACW25501VAD
+TwentyFiveGigE2/0/8 OPM260714TY
+TwentyFiveGigE2/0/24 ACP2631105K
+TwentyFiveGigE1/0/26 ACP263115QE
+TwentyFiveGigE1/0/1 FNS244108X7
+TwentyFiveGigE2/0/4 OPM260713R7
+TwentyFiveGigE1/0/48 ACW25501VQR
+HundredGigE2/0/52 FBN2740B04N
+TwentyFiveGigE2/0/23 OPM2608086B
+TwentyFiveGigE2/0/7 FNS17300UUP
+TwentyFiveGigE2/0/15 ACW26271MTM
+TwentyFiveGigE2/0/47 ACW25501VAV
+TwentyFiveGigE1/0/47 ACW25501VRJ
+HundredGigE1/0/52 FBN2741B04U
+TwentyFiveGigE2/0/26 ACP263115Q9
+TwentyFiveGigE2/0/11 OPM26071JTN
+TwentyFiveGigE1/0/23 ACP26311065
+TwentyFiveGigE2/0/19 OPM22491AQ3
+HundredGigE1/0/50 AVM2452U184
+TwentyFiveGigE2/0/13 OPM26071640
+TwentyFiveGigE1/0/19 FNS19151837
+TwentyFiveGigE1/0/7 FNS17400C74
+TwentyFiveGigE1/0/15 ACW26271MT5
+TwentyFiveGigE2/0/5 OPM260713RR
+TwentyFiveGigE1/0/10 OPM260714X8
+TwentyFiveGigE1/0/9 OPM260713Q7
+TwentyFiveGigE2/0/28 ACP26311529
+TwentyFiveGigE1/0/25 ACP2631105F
+TwentyFiveGigE1/0/16 SPC164706DN
+TwentyFiveGigE2/0/12 OPM260714NX
+TwentyFiveGigE1/0/8 OPM260713RK
+TwentyFiveGigE1/0/11 OPM260714T8
+TwentyFiveGigE1/0/24 ACP26311068
+TwentyFiveGigE1/0/14 ACW26281TMG
+TwentyFiveGigE2/0/16 SPC164706UC
+TwentyFiveGigE1/0/30 FNS283001X2
+TwentyFiveGigE2/0/2 FNS2441090Q
+TwentyFiveGigE2/0/9 OPM260713QA
+TwentyFiveGigE2/0/6 FNS17282L7W
+TwentyFiveGigE1/0/4 OPM260713QT
+TwentyFiveGigE2/0/1 FNS244108XS
+
+#################
+###shenton-dr-04.net.uwa.edu.au
+#################
+TwentyFiveGigE1/0/48 ONT152503W0
+HundredGigE1/0/50 LCC2817GNKU-A
+HundredGigE1/0/49 LCC2819G0H5-A
+TwentyFiveGigE2/0/47 SPC170302UV
+HundredGigE2/0/50 LCC2817GNKU-B
+TwentyFiveGigE1/0/47 FNS17300XNM
+TwentyFiveGigE2/0/48 FNS17300XE3
+HundredGigE1/0/52 FBN2823B0CE
+HundredGigE2/0/52 FBN2823B01R
+HundredGigE2/0/49 LCC2819G0H5-B
 
